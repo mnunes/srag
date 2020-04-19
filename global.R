@@ -1,9 +1,14 @@
+# pacotes necessários
+
 library(shiny)
 library(tidyverse)
 theme_set(theme_bw())
 library(scales)
 
-casos_uf <- read.csv(file="casos_uf.csv")
+# leitura dos dados
+
+casos_uf <- read.csv(file="~/srag/casos_uf.csv")
+#casos_uf <- read.csv(file="casos_uf.csv")
 
 # remocao de colunas desnecessarias
 
