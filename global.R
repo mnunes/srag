@@ -28,7 +28,5 @@ max_week <- casos_uf %>%
 # processamento dos dados
 
 srag_filtrado <- casos_uf %>%
-	filter(epiweek <= max_week) #%>%
-	#filter(ano >= 2011) %>%
-	#mutate(ano = factor(ano))
+	filter(epiweek <= max_week)
 
