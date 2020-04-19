@@ -18,7 +18,7 @@ function(input, output, session) {
       scale_colour_viridis_d(direction = -1) +
       scale_x_continuous(breaks = pretty_breaks(10),  minor_breaks = NULL) +
       labs(x = "Semana", y = "Número de Casos", colour = "Ano", 
-           title = paste0(selectedDataUF()$territory_name, ": Número de Casos de SARG")) +
+           title = paste0(selectedDataUF()$territory_name, ": Número de Casos de SRAG")) +
       theme(legend.position="top")
   })
   
@@ -40,7 +40,7 @@ function(input, output, session) {
       scale_colour_viridis_d(direction = -1) +
       scale_x_continuous(breaks = pretty_breaks(5), minor_breaks = NULL) +
       labs(x = "Semana", y = "Número de Casos", colour = "Ano", 
-           title = "Número de Casos de SARG por Estado") +
+           title = "Número de Casos de SRAG por Estado") +
       facet_wrap(~ territory_name, scales = "free", ncol = 2) +
       theme(legend.position = "top")
   })
@@ -67,7 +67,7 @@ function(input, output, session) {
       scale_colour_viridis_d(direction = -1) +
       scale_x_continuous(breaks = pretty_breaks(10), minor_breaks = NULL) +
       labs(x = "Semana", y = "Número de Casos", colour = "Ano", 
-           title = "Brasil: Número de Casos de SARG") +
+           title = "Brasil: Número de Casos de SRAG") +
       theme(legend.position = "top")
   })
 }

@@ -1,5 +1,5 @@
 pageWithSidebar(
-  headerPanel("SARG ou COVID-19?"),
+  headerPanel("SRAG ou COVID-19?"),
   sidebarPanel(
     selectInput("uf", "Selecione a UF", uf,
                 selected = "Rio Grande do Norte"),
