@@ -2,7 +2,7 @@
 
 library(shiny)
 library(tidyverse)
-theme_set(theme_bw() + theme(text = element_text(size = 12)))
+theme_set(theme_bw() + theme(text = element_text(size = 16)))
 library(scales)
 
 # leitura dos dados
