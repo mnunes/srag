@@ -21,7 +21,7 @@ pageWithSidebar(
                 ),
                 
                 # aba com o grafico de incidencia
-                tabPanel("Incidência",
+                tabPanel("Incidência por UF",
                          plotOutput("plot4", height = 500)
                 ),
                 
