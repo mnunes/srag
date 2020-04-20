@@ -17,7 +17,7 @@ pageWithSidebar(
                 
                 # aba com o grafico de valores absolutos
                 tabPanel("Casos por UF",
-                         plotOutput("plot1", height = 600)
+                         plotOutput("plot1", height = 500)
                 ),
                 
                 # aba com os graficos de todos os estados
