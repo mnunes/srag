@@ -20,14 +20,19 @@ pageWithSidebar(
                          plotOutput("plot1", height = 500)
                 ),
                 
+                # aba com o grafico de incidencia
+                tabPanel("Incidência",
+                         plotOutput("plot4", height = 500)
+                ),
+                
                 # aba com os graficos de todos os estados
                 tabPanel("Todas as UFs",
-                         plotOutput("plot2")
+                         plotOutput("plot2", height = 2000)
                 ),
                 
                 # aba com o grafico do brasil
                 tabPanel("Brasil",
-                         plotOutput("plot3", height = 600)
+                         plotOutput("plot3", height = 500)
                 )
                 
     )

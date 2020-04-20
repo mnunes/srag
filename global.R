@@ -8,12 +8,18 @@ library(scales)
 # leitura dos dados
 
 #casos_uf <- read.csv(file="~/srag/casos_uf.csv")
-casos_uf <- read.csv(file="casos_uf.csv")
+casos_uf  <- read.csv(file="casos_uf.csv")
+populacao <- read.csv(file="populacao.csv")
+
+# calculo da incidencia
+
+casos_uf <- left_join(casos_uf, populacao) %>%
+	mutate(incidence = 100000*casos/population)
 
 # remocao de colunas desnecessarias
 
 casos_uf <- casos_uf %>% 
-	select(ano, epiweek, casos, territory_name)
+	select(ano, epiweek, casos, incidence, territory_name)
 
 # nomes das UFs
 
@@ -34,4 +40,5 @@ max_week <- casos_uf %>%
 
 srag_filtrado <- casos_uf %>%
 	filter(epiweek <= max_week)
+
 

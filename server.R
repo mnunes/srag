@@ -22,6 +22,18 @@ function(input, output, session) {
       theme(legend.position="top")
   })
   
+  # graficos para cada UF - incidencia
+  
+  output$plot4 <- renderPlot({
+    ggplot(selectedDataUF(), aes(x = epiweek, y = incidence, group = ano, colour = ano)) +
+      geom_line() +
+      scale_colour_viridis_d(direction = -1) +
+      scale_x_continuous(breaks = pretty_breaks(10),  minor_breaks = NULL) +
+      labs(x = "Semana", y = "Casos por 100.000 Habitantes", colour = "Ano", 
+           title = paste0(selectedDataUF()$territory_name, ": Incidência de Casos de SRAG")) +
+      theme(legend.position="top")
+  })
+  
   # dados selecionados para todas as UFs
   
   selectedData <- reactive({
@@ -35,12 +47,12 @@ function(input, output, session) {
   
   output$plot2 <- renderPlot(height = 2000, {
     
-    ggplot(selectedData(), aes(x = epiweek, y = casos, group = ano, colour = ano)) +
+    ggplot(selectedData(), aes(x = epiweek, y = incidence, group = ano, colour = ano)) +
       geom_line() +
       scale_colour_viridis_d(direction = -1) +
       scale_x_continuous(breaks = pretty_breaks(5), minor_breaks = NULL) +
-      labs(x = "Semana", y = "Número de Casos", colour = "Ano", 
-           title = "Número de Casos de SRAG por Estado") +
+      labs(x = "Semana", y = "Casos por 100.000 Habitantes", colour = "Ano", 
+           title = "Incidência de Casos de SRAG por Estado") +
       facet_wrap(~ territory_name, scales = "free", ncol = 2) +
       theme(legend.position = "top")
   })
