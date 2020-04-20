@@ -7,8 +7,8 @@ library(scales)
 
 # leitura dos dados
 
-casos_uf <- read.csv(file="~/srag/casos_uf.csv")
-#casos_uf <- read.csv(file="casos_uf.csv")
+#casos_uf <- read.csv(file="~/srag/casos_uf.csv")
+casos_uf <- read.csv(file="casos_uf.csv")
 
 # remocao de colunas desnecessarias
 
