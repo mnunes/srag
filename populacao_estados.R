@@ -1,37 +1,28 @@
-# funcao para baixar dados sobre as populações dos estados brasileiros
+# o arquivo populacao_bk.csv foi obtido a partir da tabela 6579 do sidra: 
+# https://sidra.ibge.gov.br/tabela/6579#resultado
 
-library(rvest)
 library(tidyverse)
-library(stringi)
+library(reshape2)
 
-# url de interesse
+populacao <- read_csv(file = "populacao_bk.csv")
 
-url <- "https://pt.wikipedia.org/wiki/Lista_de_unidades_federativas_do_Brasil_por_popula%C3%A7%C3%A3o"
-
-# baixar os dados localmente e extrair as tabelas da pagina
-
-pagina <- url %>%
-  read_html()
-
-pagina <- pagina %>%
-  html_table(fill = TRUE)
-
-populacao <- pagina[[1]]
+# repetir as observacoes de 2019 para 2020 e 
+# colocar populacao em formato longo
 
 populacao <- populacao %>%
-  select(`Unidade federativa`, `População`)
+  mutate(`2020` = `2019`) %>%
+  melt()
 
-# fazer os nomes das colunas iguais aos de `infogripe_scrap.R`
+# renomear as colunas
 
-names(populacao) <- c("territory_name", "population")
+names(populacao) <- c("territory_name", "ano", "populacao")
 
-# converter populacao para numerico
+# organizar o arquivo final
 
 populacao <- populacao %>%
-  mutate(population = stri_replace_all_charclass(population, "\\p{WHITE_SPACE}", "")) %>%
-  mutate(population = as.numeric(population))
+	arrange(ano, territory_name)
 
-# exportar arquivo csv
+# exportar o arquivo final
 
 write_csv(populacao, "populacao.csv")
 
