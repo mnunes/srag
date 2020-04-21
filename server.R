@@ -13,13 +13,30 @@ function(input, output, session) {
   # graficos para cada UF
   
   output$plot1 <- renderPlot({
-    ggplot(selectedDataUF(), aes(x = epiweek, y = casos, group = ano, colour = ano)) +
+    if(input$media == TRUE) {
+      selectedDataUF() %>%
+        filter(ano != input$slider[2]) %>%
+        group_by(epiweek) %>%
+        summarise(media = mean(casos)) %>%
+        full_join(filter(selectedDataUF(), ano == input$slider[2])) %>%
+        select(epiweek, media, casos) %>%
+        melt(id.var = "epiweek") %>%
+        mutate(variable = ifelse(variable == "media", "Média dos\nanos anteriores", input$slider[2])) %>%
+        ggplot(., aes(x = epiweek, y = value, group = variable, colour = variable)) +
       geom_line() +
-      scale_colour_viridis_d(direction = -1) +
+      scale_colour_viridis_d(direction = 1) +
       scale_x_continuous(breaks = pretty_breaks(10),  minor_breaks = NULL) +
       labs(x = "Semana", y = "Número de Casos", colour = "Ano", 
            title = paste0(selectedDataUF()$territory_name, ": Número de Casos de SRAG")) +
-      theme(legend.position="top")
+      theme(legend.position="top")} else {
+        ggplot(selectedDataUF(), aes(x = epiweek, y = casos, group = ano, colour = ano)) +
+          geom_line() +
+          scale_colour_viridis_d(direction = -1) +
+          scale_x_continuous(breaks = pretty_breaks(10),  minor_breaks = NULL) +
+          labs(x = "Semana", y = "Número de Casos", colour = "Ano", 
+               title = paste0(selectedDataUF()$territory_name, ": Número de Casos de SRAG")) +
+          theme(legend.position="top")
+      }
   })
   
   # graficos para cada UF - incidencia
@@ -70,17 +87,33 @@ function(input, output, session) {
       mutate(ano = factor(ano))
   })
   
-  # graficos para todas as UFs
+  # graficos para o brasil inteiro
   
   output$plot3 <- renderPlot({
-    
-    ggplot(selectedDataBrasil(), aes(x = epiweek, y = casos, group = ano, colour = ano)) +
-      geom_line() +
-      scale_colour_viridis_d(direction = -1) +
-      scale_x_continuous(breaks = pretty_breaks(10), minor_breaks = NULL) +
-      labs(x = "Semana", y = "Número de Casos", colour = "Ano", 
-           title = "Brasil: Número de Casos de SRAG") +
-      theme(legend.position = "top")
+    if(input$media == TRUE) {
+      selectedDataBrasil() %>%
+        filter(ano != input$slider[2]) %>%
+        group_by(epiweek) %>%
+        summarise(media = mean(casos)) %>%
+        full_join(filter(selectedDataBrasil(), ano == input$slider[2])) %>%
+        select(epiweek, media, casos) %>%
+        melt(id.var = "epiweek") %>%
+        mutate(variable = ifelse(variable == "media", "Média dos\nanos anteriores", input$slider[2])) %>%
+        ggplot(., aes(x = epiweek, y = value, group = variable, colour = variable)) +
+        geom_line() +
+        scale_colour_viridis_d(direction = 1) +
+        scale_x_continuous(breaks = pretty_breaks(10),  minor_breaks = NULL) +
+        labs(x = "Semana", y = "Número de Casos", colour = "Ano", 
+             title = "Brasil: Número de Casos de SRAG") +
+        theme(legend.position="top")} else {
+          ggplot(selectedDataBrasil(), aes(x = epiweek, y = casos, group = ano, colour = ano)) +
+            geom_line() +
+            scale_colour_viridis_d(direction = -1) +
+            scale_x_continuous(breaks = pretty_breaks(10), minor_breaks = NULL) +
+            labs(x = "Semana", y = "Número de Casos", colour = "Ano", 
+                 title = "Brasil: Número de Casos de SRAG") +
+            theme(legend.position = "top")
+        }
   })
 }
 

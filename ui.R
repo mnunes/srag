@@ -4,7 +4,8 @@ pageWithSidebar(
     selectInput("uf", "Selecione a UF", uf,
                 selected = "Rio Grande do Norte"),
     sliderInput(inputId = "slider", label = "Anos", ticks = FALSE,
-                min = 2009, max = max_ano, step = 1, value = c(2016, max_ano)),
+                min = 2011, max = max_ano, step = 1, value = c(2016, max_ano)),
+    checkboxInput(inputId = "media", label = "Comparar os casos com a média dos anos anteriores?", value = FALSE, width = NULL),
     p("Infelizmente, não há testes de COVID-19 para todos os suspeitos. A", strong("Síndrome Respiratória Aguda Grave (SRAG)"), "possui sintomas muito parecidos com aqueles do COVID-19. Acredito que, com o avanço da pandemia, é importante que a população tenha noção da quantidade de casos da doença que estão por aí."),
     p("Entretanto, temos um bom acesso a casos registrados de SRAG. A Fiocruz tem uma excelente ferramenta de divulgação chamada", a("Info Gripe", href="http://info.gripe.fiocruz.br/", target="_blank"), ", no qual obtive os dados aqui divulgados.",),
     p(strong("ATENÇÃO:"), "alguns gráficos podem dar a entender que está acontecendo um achatamento na curva. É preciso analisar com cuidado, pois um número menor de dados em semanas mais recentes pode significar atraso na notificação.",),
@@ -31,7 +32,7 @@ pageWithSidebar(
                 ),
                 
                 # aba com o grafico do brasil
-                tabPanel("Brasil",
+                tabPanel("Casos Brasil",
                          plotOutput("plot3", height = 500)
                 )
                 
