@@ -89,18 +89,18 @@ function(input, output, session) {
   #  p
   #})
   #
-  #
-  ## dados selecionados para o brasil inteiro
-  #
-  #selectedDataBrasil <- reactive({
-  #  srag_filtrado %>%
-  #    group_by(ano, epiweek) %>%
-  #    mutate(casos = sum(casos)) %>%
-  #    filter(ano >= input$slider[1]) %>%
-  #    filter(ano <= input$slider[2]) %>%
-  #    as.data.frame() %>%
-  #    mutate(ano = factor(ano))
-  #})
+  
+  # dados selecionados para o brasil inteiro
+  
+  selectedDataBrasil <- reactive({
+    srag_filtrado %>%
+      group_by(ano, epiweek) %>%
+      mutate(casos = sum(casos)) %>%
+      filter(ano >= input$slider[1]) %>%
+      filter(ano <= input$slider[2]) %>%
+      as.data.frame() %>%
+      mutate(ano = factor(ano))
+  })
   
   # graficos para o brasil inteiro
   
