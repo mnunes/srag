@@ -1,5 +1,3 @@
-
-
 function(input, output, session) {
   
   # dados selecionados por UF
