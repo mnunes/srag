@@ -42,7 +42,7 @@ function(input, output, session) {
                title = paste0(selectedDataUF()$territory_name, ": Número de Casos de SRAG")) +
           theme(legend.position="top")
         p <- ggplotly(p, tooltip = c("Semana", "Casos"))
-        print(p)
+        p
       }
   })
   
