@@ -73,34 +73,34 @@ function(input, output, session) {
   
   # graficos para todas as UFs
   
-  output$plot2 <- renderPlotly({
-    
-    p <- selectedData() %>%
-      mutate(Semana = epiweek, Incidência = round(incidence, digits = 2)) %>%
-      ggplot(., aes(x = Semana, y = Incidência, group = ano, colour = ano)) +
-      geom_line() +
-      scale_colour_viridis_d(direction = -1) +
-      scale_x_continuous(breaks = pretty_breaks(5), minor_breaks = NULL) +
-      labs(x = "Semana", y = "Casos por 100.000 Habitantes", colour = "Ano", 
-           title = "Incidência de Casos de SRAG por Estado") +
-      facet_wrap(~ territory_name, scales = "free", ncol = 2) +
-      theme(legend.position = "top")
-    p <- ggplotly(p, tooltip = c("Semana", "Incidência"))
-    p
-  })
-  
-  
-  # dados selecionados para o brasil inteiro
-  
-  selectedDataBrasil <- reactive({
-    srag_filtrado %>%
-      group_by(ano, epiweek) %>%
-      mutate(casos = sum(casos)) %>%
-      filter(ano >= input$slider[1]) %>%
-      filter(ano <= input$slider[2]) %>%
-      as.data.frame() %>%
-      mutate(ano = factor(ano))
-  })
+  #output$plot2 <- renderPlotly({
+  #  
+  #  p <- selectedData() %>%
+  #    mutate(Semana = epiweek, Incidência = round(incidence, digits = 2)) %>%
+  #    ggplot(., aes(x = Semana, y = Incidência, group = ano, colour = ano)) +
+  #    geom_line() +
+  #    scale_colour_viridis_d(direction = -1) +
+  #    scale_x_continuous(breaks = pretty_breaks(5), minor_breaks = NULL) +
+  #    labs(x = "Semana", y = "Casos por 100.000 Habitantes", colour = "Ano", 
+  #         title = "Incidência de Casos de SRAG por Estado") +
+  #    facet_wrap(~ territory_name, scales = "free", ncol = 2) +
+  #    theme(legend.position = "top")
+  #  p <- ggplotly(p, tooltip = c("Semana", "Incidência"))
+  #  p
+  #})
+  #
+  #
+  ## dados selecionados para o brasil inteiro
+  #
+  #selectedDataBrasil <- reactive({
+  #  srag_filtrado %>%
+  #    group_by(ano, epiweek) %>%
+  #    mutate(casos = sum(casos)) %>%
+  #    filter(ano >= input$slider[1]) %>%
+  #    filter(ano <= input$slider[2]) %>%
+  #    as.data.frame() %>%
+  #    mutate(ano = factor(ano))
+  #})
   
   # graficos para o brasil inteiro
   
