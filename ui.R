@@ -1,3 +1,5 @@
+library(plotly)
+
 pageWithSidebar(
   headerPanel("SRAG ou COVID-19?"),
   sidebarPanel(
