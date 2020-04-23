@@ -2,7 +2,7 @@
 
 library(shiny)
 library(tidyverse)
-theme_set(theme_bw() + theme(text = element_text(size = 6)))
+#theme_set(theme_bw() + theme(text = element_text(size = 6)))
 library(plotly)
 library(scales)
 library(reshape2)
