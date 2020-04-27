@@ -3,15 +3,14 @@
 library(shiny)
 library(tidyverse)
 theme_set(theme_bw() + theme(text = element_text(size = 12)))
+library(lubridate)
 library(plotly)
 library(scales)
 library(reshape2)
 
 # leitura dos dados
 
-#casos_uf <- read_csv(file="~/srag/casos_uf.csv")
-casos_uf  <- read_csv(file="casos_uf.csv")
-casos_uf <- filter(casos_uf, ano >= 2011)
+casos_uf <- read_csv(file="casos_uf.csv")
 populacao <- read_csv(file="populacao.csv")
 
 # nomes das UFs
@@ -35,7 +34,7 @@ casos_uf <- casos_uf %>%
 # adicionar epiweek a populacao
 
 populacao <- populacao[rep(seq_len(nrow(populacao)), each = max_week), ]
-populacao$epiweek <- rep(rep(1:max_week, length(uf)),length(2011:max_ano) )
+populacao$epiweek <- rep(rep(1:max_week, length(uf)),length(2011:max_ano))
 
 # calculo da incidencia
 
@@ -45,7 +44,8 @@ casos_uf <- left_join(casos_uf, populacao) %>%
 # remocao de colunas desnecessarias
 
 casos_uf <- casos_uf %>% 
-	select(ano, epiweek, casos, incidence, territory_name)
+	select(ano, epiweek, casos, incidence, territory_name) %>%
+	mutate(casos = round(casos, 0))
 
 # processamento dos dados
 
