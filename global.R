@@ -50,5 +50,13 @@ casos_uf <- casos_uf %>%
 # processamento dos dados
 
 srag_filtrado <- casos_uf %>%
-	filter(epiweek <= max_week)
+	#filter(epiweek <= max_week)
+	filter(epiweek <= 15)
 
+#max_week <- srag_filtrado %>%
+#	filter(ano == max_ano) %>%
+#	na.omit() %>%
+#	group_by(territory_name) %>%
+#	summarise(max_week = max(epiweek))
+
+# srag_filtrado <- left_join(srag_filtrado, max_week)
