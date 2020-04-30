@@ -3,7 +3,7 @@ library(plotly)
 pageWithSidebar(
   headerPanel("SRAG ou COVID-19?"),
   sidebarPanel(
-    selectInput("uf", "Selecione a UF", uf,
+    selectInput("uf", "Selecione a UF", uf[order(uf)],
                 selected = "Rio Grande do Norte"),
     sliderInput(inputId = "slider", label = "Anos", ticks = FALSE,
                 min = 2011, max = max_ano, step = 1, value = c(2016, max_ano)),
