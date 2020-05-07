@@ -483,8 +483,9 @@ ano,epiweek,casos,territory_name
 2020,13,5,Rondônia
 2020,14,16,Rondônia
 2020,15,10,Rondônia
-2020,16,NA,Rondônia
+2020,16,8,Rondônia
 2020,17,NA,Rondônia
+2020,18,NA,Rondônia
 2011,1,0,Acre
 2011,2,0,Acre
 2011,3,0,Acre
@@ -969,8 +970,9 @@ ano,epiweek,casos,territory_name
 2020,13,4,Acre
 2020,14,6,Acre
 2020,15,6,Acre
-2020,16,NA,Acre
+2020,16,1,Acre
 2020,17,NA,Acre
+2020,18,NA,Acre
 2011,1,0,Amazonas
 2011,2,0,Amazonas
 2011,3,0,Amazonas
@@ -1442,21 +1444,22 @@ ano,epiweek,casos,territory_name
 2019,52,6,Amazonas
 2020,1,12,Amazonas
 2020,2,23,Amazonas
-2020,3,19,Amazonas
+2020,3,18,Amazonas
 2020,4,16,Amazonas
 2020,5,22,Amazonas
 2020,6,22,Amazonas
 2020,7,24,Amazonas
 2020,8,38,Amazonas
-2020,9,35,Amazonas
-2020,10,29,Amazonas
+2020,9,36,Amazonas
+2020,10,28,Amazonas
 2020,11,43,Amazonas
-2020,12,112,Amazonas
-2020,13,187,Amazonas
-2020,14,318,Amazonas
-2020,15,429,Amazonas
-2020,16,NA,Amazonas
+2020,12,113,Amazonas
+2020,13,196,Amazonas
+2020,14,357,Amazonas
+2020,15,568,Amazonas
+2020,16,508,Amazonas
 2020,17,NA,Amazonas
+2020,18,NA,Amazonas
 2011,1,0,Roraima
 2011,2,0,Roraima
 2011,3,0,Roraima
@@ -1937,12 +1940,13 @@ ano,epiweek,casos,territory_name
 2020,9,0,Roraima
 2020,10,0,Roraima
 2020,11,2,Roraima
-2020,12,5,Roraima
+2020,12,6,Roraima
 2020,13,3,Roraima
 2020,14,1,Roraima
-2020,15,5,Roraima
-2020,16,NA,Roraima
+2020,15,9,Roraima
+2020,16,8,Roraima
 2020,17,NA,Roraima
+2020,18,NA,Roraima
 2011,1,0,Pará
 2011,2,1,Pará
 2011,3,1,Pará
@@ -2420,15 +2424,16 @@ ano,epiweek,casos,territory_name
 2020,6,14,Pará
 2020,7,10,Pará
 2020,8,19,Pará
-2020,9,24,Pará
+2020,9,23,Pará
 2020,10,23,Pará
 2020,11,32,Pará
-2020,12,63,Pará
-2020,13,60,Pará
-2020,14,68,Pará
-2020,15,114,Pará
-2020,16,NA,Pará
+2020,12,66,Pará
+2020,13,64,Pará
+2020,14,76,Pará
+2020,15,124,Pará
+2020,16,204,Pará
 2020,17,NA,Pará
+2020,18,NA,Pará
 2011,1,0,Amapá
 2011,2,0,Amapá
 2011,3,0,Amapá
@@ -2907,14 +2912,15 @@ ano,epiweek,casos,territory_name
 2020,7,1,Amapá
 2020,8,0,Amapá
 2020,9,0,Amapá
-2020,10,0,Amapá
+2020,10,1,Amapá
 2020,11,4,Amapá
 2020,12,4,Amapá
-2020,13,13,Amapá
+2020,13,12,Amapá
 2020,14,6,Amapá
-2020,15,3,Amapá
-2020,16,NA,Amapá
+2020,15,6,Amapá
+2020,16,2,Amapá
 2020,17,NA,Amapá
+2020,18,NA,Amapá
 2011,1,0,Tocantins
 2011,2,0,Tocantins
 2011,3,0,Tocantins
@@ -3395,12 +3401,13 @@ ano,epiweek,casos,territory_name
 2020,9,5,Tocantins
 2020,10,5,Tocantins
 2020,11,13,Tocantins
-2020,12,13,Tocantins
-2020,13,16,Tocantins
-2020,14,7,Tocantins
+2020,12,16,Tocantins
+2020,13,15,Tocantins
+2020,14,8,Tocantins
 2020,15,15,Tocantins
-2020,16,NA,Tocantins
+2020,16,17,Tocantins
 2020,17,NA,Tocantins
+2020,18,NA,Tocantins
 2011,1,0,Maranhão
 2011,2,0,Maranhão
 2011,3,0,Maranhão
@@ -3872,21 +3879,22 @@ ano,epiweek,casos,territory_name
 2019,52,0,Maranhão
 2020,1,3,Maranhão
 2020,2,3,Maranhão
-2020,3,5,Maranhão
+2020,3,6,Maranhão
 2020,4,7,Maranhão
 2020,5,8,Maranhão
-2020,6,25,Maranhão
-2020,7,34,Maranhão
-2020,8,56,Maranhão
-2020,9,65,Maranhão
-2020,10,74,Maranhão
+2020,6,26,Maranhão
+2020,7,35,Maranhão
+2020,8,57,Maranhão
+2020,9,66,Maranhão
+2020,10,76,Maranhão
 2020,11,107,Maranhão
-2020,12,97,Maranhão
-2020,13,92,Maranhão
-2020,14,86,Maranhão
-2020,15,88,Maranhão
-2020,16,NA,Maranhão
+2020,12,101,Maranhão
+2020,13,97,Maranhão
+2020,14,99,Maranhão
+2020,15,121,Maranhão
+2020,16,57,Maranhão
 2020,17,NA,Maranhão
+2020,18,NA,Maranhão
 2011,1,0,Piauí
 2011,2,0,Piauí
 2011,3,1,Piauí
@@ -4365,14 +4373,15 @@ ano,epiweek,casos,territory_name
 2020,7,11,Piauí
 2020,8,9,Piauí
 2020,9,17,Piauí
-2020,10,28,Piauí
-2020,11,34,Piauí
-2020,12,86,Piauí
-2020,13,88,Piauí
-2020,14,71,Piauí
-2020,15,67,Piauí
-2020,16,NA,Piauí
+2020,10,29,Piauí
+2020,11,38,Piauí
+2020,12,85,Piauí
+2020,13,90,Piauí
+2020,14,72,Piauí
+2020,15,75,Piauí
+2020,16,87,Piauí
 2020,17,NA,Piauí
+2020,18,NA,Piauí
 2011,1,0,Ceará
 2011,2,0,Ceará
 2011,3,0,Ceará
@@ -4844,21 +4853,22 @@ ano,epiweek,casos,territory_name
 2019,52,4,Ceará
 2020,1,12,Ceará
 2020,2,19,Ceará
-2020,3,24,Ceará
+2020,3,25,Ceará
 2020,4,24,Ceará
-2020,5,23,Ceará
+2020,5,24,Ceará
 2020,6,29,Ceará
-2020,7,36,Ceará
-2020,8,34,Ceará
+2020,7,37,Ceará
+2020,8,35,Ceará
 2020,9,29,Ceará
-2020,10,52,Ceará
+2020,10,54,Ceará
 2020,11,93,Ceará
-2020,12,253,Ceará
-2020,13,329,Ceará
-2020,14,341,Ceará
-2020,15,455,Ceará
-2020,16,NA,Ceará
+2020,12,264,Ceará
+2020,13,341,Ceará
+2020,14,363,Ceará
+2020,15,513,Ceará
+2020,16,667,Ceará
 2020,17,NA,Ceará
+2020,18,NA,Ceará
 2011,1,0,Rio Grande do Norte
 2011,2,0,Rio Grande do Norte
 2011,3,1,Rio Grande do Norte
@@ -5339,12 +5349,13 @@ ano,epiweek,casos,territory_name
 2020,9,1,Rio Grande do Norte
 2020,10,8,Rio Grande do Norte
 2020,11,33,Rio Grande do Norte
-2020,12,67,Rio Grande do Norte
+2020,12,68,Rio Grande do Norte
 2020,13,40,Rio Grande do Norte
-2020,14,47,Rio Grande do Norte
-2020,15,40,Rio Grande do Norte
-2020,16,NA,Rio Grande do Norte
+2020,14,50,Rio Grande do Norte
+2020,15,44,Rio Grande do Norte
+2020,16,39,Rio Grande do Norte
 2020,17,NA,Rio Grande do Norte
+2020,18,NA,Rio Grande do Norte
 2011,1,0,Paraíba
 2011,2,0,Paraíba
 2011,3,0,Paraíba
@@ -5826,11 +5837,12 @@ ano,epiweek,casos,territory_name
 2020,10,4,Paraíba
 2020,11,14,Paraíba
 2020,12,57,Paraíba
-2020,13,78,Paraíba
-2020,14,64,Paraíba
-2020,15,60,Paraíba
-2020,16,NA,Paraíba
+2020,13,77,Paraíba
+2020,14,65,Paraíba
+2020,15,62,Paraíba
+2020,16,83,Paraíba
 2020,17,NA,Paraíba
+2020,18,NA,Paraíba
 2011,1,0,Pernambuco
 2011,2,0,Pernambuco
 2011,3,0,Pernambuco
@@ -6302,21 +6314,22 @@ ano,epiweek,casos,territory_name
 2019,52,21,Pernambuco
 2020,1,17,Pernambuco
 2020,2,22,Pernambuco
-2020,3,22,Pernambuco
+2020,3,24,Pernambuco
 2020,4,20,Pernambuco
 2020,5,15,Pernambuco
 2020,6,18,Pernambuco
 2020,7,18,Pernambuco
-2020,8,48,Pernambuco
+2020,8,49,Pernambuco
 2020,9,38,Pernambuco
 2020,10,44,Pernambuco
-2020,11,111,Pernambuco
-2020,12,316,Pernambuco
-2020,13,286,Pernambuco
-2020,14,277,Pernambuco
-2020,15,329,Pernambuco
-2020,16,NA,Pernambuco
+2020,11,113,Pernambuco
+2020,12,323,Pernambuco
+2020,13,290,Pernambuco
+2020,14,302,Pernambuco
+2020,15,394,Pernambuco
+2020,16,354,Pernambuco
 2020,17,NA,Pernambuco
+2020,18,NA,Pernambuco
 2011,1,0,Alagoas
 2011,2,0,Alagoas
 2011,3,0,Alagoas
@@ -6797,12 +6810,13 @@ ano,epiweek,casos,territory_name
 2020,9,1,Alagoas
 2020,10,5,Alagoas
 2020,11,8,Alagoas
-2020,12,24,Alagoas
-2020,13,14,Alagoas
+2020,12,25,Alagoas
+2020,13,15,Alagoas
 2020,14,14,Alagoas
-2020,15,39,Alagoas
-2020,16,NA,Alagoas
+2020,15,40,Alagoas
+2020,16,46,Alagoas
 2020,17,NA,Alagoas
+2020,18,NA,Alagoas
 2011,1,0,Sergipe
 2011,2,0,Sergipe
 2011,3,0,Sergipe
@@ -7283,12 +7297,13 @@ ano,epiweek,casos,territory_name
 2020,9,3,Sergipe
 2020,10,2,Sergipe
 2020,11,12,Sergipe
-2020,12,22,Sergipe
+2020,12,23,Sergipe
 2020,13,18,Sergipe
 2020,14,17,Sergipe
-2020,15,18,Sergipe
-2020,16,NA,Sergipe
+2020,15,19,Sergipe
+2020,16,16,Sergipe
 2020,17,NA,Sergipe
+2020,18,NA,Sergipe
 2011,1,0,Bahia
 2011,2,0,Bahia
 2011,3,0,Bahia
@@ -7758,7 +7773,7 @@ ano,epiweek,casos,territory_name
 2019,50,6,Bahia
 2019,51,10,Bahia
 2019,52,3,Bahia
-2020,1,10,Bahia
+2020,1,11,Bahia
 2020,2,11,Bahia
 2020,3,14,Bahia
 2020,4,12,Bahia
@@ -7766,15 +7781,16 @@ ano,epiweek,casos,territory_name
 2020,6,19,Bahia
 2020,7,17,Bahia
 2020,8,23,Bahia
-2020,9,50,Bahia
-2020,10,51,Bahia
-2020,11,102,Bahia
-2020,12,159,Bahia
+2020,9,51,Bahia
+2020,10,50,Bahia
+2020,11,100,Bahia
+2020,12,150,Bahia
 2020,13,108,Bahia
 2020,14,113,Bahia
-2020,15,125,Bahia
-2020,16,NA,Bahia
+2020,15,139,Bahia
+2020,16,138,Bahia
 2020,17,NA,Bahia
+2020,18,NA,Bahia
 2011,1,2,Minas Gerais
 2011,2,1,Minas Gerais
 2011,3,2,Minas Gerais
@@ -8244,23 +8260,24 @@ ano,epiweek,casos,territory_name
 2019,50,33,Minas Gerais
 2019,51,24,Minas Gerais
 2019,52,29,Minas Gerais
-2020,1,28,Minas Gerais
-2020,2,27,Minas Gerais
+2020,1,29,Minas Gerais
+2020,2,26,Minas Gerais
 2020,3,33,Minas Gerais
-2020,4,28,Minas Gerais
-2020,5,25,Minas Gerais
+2020,4,29,Minas Gerais
+2020,5,26,Minas Gerais
 2020,6,28,Minas Gerais
 2020,7,36,Minas Gerais
-2020,8,35,Minas Gerais
-2020,9,51,Minas Gerais
-2020,10,83,Minas Gerais
-2020,11,249,Minas Gerais
-2020,12,638,Minas Gerais
-2020,13,588,Minas Gerais
-2020,14,530,Minas Gerais
-2020,15,388,Minas Gerais
-2020,16,NA,Minas Gerais
+2020,8,36,Minas Gerais
+2020,9,52,Minas Gerais
+2020,10,89,Minas Gerais
+2020,11,257,Minas Gerais
+2020,12,665,Minas Gerais
+2020,13,628,Minas Gerais
+2020,14,574,Minas Gerais
+2020,15,443,Minas Gerais
+2020,16,370,Minas Gerais
 2020,17,NA,Minas Gerais
+2020,18,NA,Minas Gerais
 2011,1,0,Espírito Santo
 2011,2,0,Espírito Santo
 2011,3,2,Espírito Santo
@@ -8740,13 +8757,14 @@ ano,epiweek,casos,territory_name
 2020,8,5,Espírito Santo
 2020,9,14,Espírito Santo
 2020,10,10,Espírito Santo
-2020,11,16,Espírito Santo
+2020,11,19,Espírito Santo
 2020,12,51,Espírito Santo
-2020,13,40,Espírito Santo
-2020,14,43,Espírito Santo
-2020,15,39,Espírito Santo
-2020,16,NA,Espírito Santo
+2020,13,42,Espírito Santo
+2020,14,48,Espírito Santo
+2020,15,40,Espírito Santo
+2020,16,45,Espírito Santo
 2020,17,NA,Espírito Santo
+2020,18,NA,Espírito Santo
 2011,1,0,Rio de Janeiro
 2011,2,1,Rio de Janeiro
 2011,3,0,Rio de Janeiro
@@ -9218,21 +9236,22 @@ ano,epiweek,casos,territory_name
 2019,52,9,Rio de Janeiro
 2020,1,15,Rio de Janeiro
 2020,2,9,Rio de Janeiro
-2020,3,16,Rio de Janeiro
-2020,4,7,Rio de Janeiro
+2020,3,17,Rio de Janeiro
+2020,4,8,Rio de Janeiro
 2020,5,6,Rio de Janeiro
-2020,6,3,Rio de Janeiro
-2020,7,16,Rio de Janeiro
+2020,6,4,Rio de Janeiro
+2020,7,13,Rio de Janeiro
 2020,8,12,Rio de Janeiro
 2020,9,22,Rio de Janeiro
-2020,10,43,Rio de Janeiro
-2020,11,191,Rio de Janeiro
-2020,12,497,Rio de Janeiro
-2020,13,548,Rio de Janeiro
-2020,14,604,Rio de Janeiro
-2020,15,764,Rio de Janeiro
-2020,16,NA,Rio de Janeiro
+2020,10,44,Rio de Janeiro
+2020,11,196,Rio de Janeiro
+2020,12,503,Rio de Janeiro
+2020,13,620,Rio de Janeiro
+2020,14,770,Rio de Janeiro
+2020,15,981,Rio de Janeiro
+2020,16,1058,Rio de Janeiro
 2020,17,NA,Rio de Janeiro
+2020,18,NA,Rio de Janeiro
 2011,1,13,São Paulo
 2011,2,10,São Paulo
 2011,3,10,São Paulo
@@ -9702,23 +9721,24 @@ ano,epiweek,casos,territory_name
 2019,50,82,São Paulo
 2019,51,75,São Paulo
 2019,52,45,São Paulo
-2020,1,74,São Paulo
+2020,1,73,São Paulo
 2020,2,76,São Paulo
 2020,3,51,São Paulo
-2020,4,71,São Paulo
+2020,4,70,São Paulo
 2020,5,70,São Paulo
 2020,6,75,São Paulo
-2020,7,108,São Paulo
-2020,8,169,São Paulo
-2020,9,196,São Paulo
-2020,10,369,São Paulo
-2020,11,1327,São Paulo
-2020,12,3523,São Paulo
-2020,13,4010,São Paulo
-2020,14,3471,São Paulo
-2020,15,2881,São Paulo
-2020,16,NA,São Paulo
+2020,7,110,São Paulo
+2020,8,171,São Paulo
+2020,9,198,São Paulo
+2020,10,384,São Paulo
+2020,11,1355,São Paulo
+2020,12,3601,São Paulo
+2020,13,4118,São Paulo
+2020,14,3650,São Paulo
+2020,15,3183,São Paulo
+2020,16,3511,São Paulo
 2020,17,NA,São Paulo
+2020,18,NA,São Paulo
 2011,1,9,Paraná
 2011,2,9,Paraná
 2011,3,5,Paraná
@@ -10188,23 +10208,24 @@ ano,epiweek,casos,territory_name
 2019,50,65,Paraná
 2019,51,46,Paraná
 2019,52,49,Paraná
-2020,1,43,Paraná
-2020,2,32,Paraná
+2020,1,45,Paraná
+2020,2,33,Paraná
 2020,3,40,Paraná
-2020,4,41,Paraná
+2020,4,42,Paraná
 2020,5,42,Paraná
 2020,6,40,Paraná
-2020,7,50,Paraná
+2020,7,51,Paraná
 2020,8,43,Paraná
-2020,9,64,Paraná
-2020,10,87,Paraná
-2020,11,178,Paraná
-2020,12,407,Paraná
-2020,13,422,Paraná
-2020,14,338,Paraná
-2020,15,293,Paraná
-2020,16,NA,Paraná
+2020,9,65,Paraná
+2020,10,88,Paraná
+2020,11,184,Paraná
+2020,12,408,Paraná
+2020,13,432,Paraná
+2020,14,358,Paraná
+2020,15,315,Paraná
+2020,16,345,Paraná
 2020,17,NA,Paraná
+2020,18,NA,Paraná
 2011,1,6,Santa Catarina
 2011,2,0,Santa Catarina
 2011,3,0,Santa Catarina
@@ -10679,18 +10700,19 @@ ano,epiweek,casos,territory_name
 2020,3,3,Santa Catarina
 2020,4,3,Santa Catarina
 2020,5,4,Santa Catarina
-2020,6,11,Santa Catarina
+2020,6,10,Santa Catarina
 2020,7,9,Santa Catarina
 2020,8,17,Santa Catarina
 2020,9,17,Santa Catarina
 2020,10,25,Santa Catarina
-2020,11,77,Santa Catarina
-2020,12,226,Santa Catarina
-2020,13,223,Santa Catarina
-2020,14,143,Santa Catarina
-2020,15,124,Santa Catarina
-2020,16,NA,Santa Catarina
+2020,11,79,Santa Catarina
+2020,12,231,Santa Catarina
+2020,13,228,Santa Catarina
+2020,14,146,Santa Catarina
+2020,15,133,Santa Catarina
+2020,16,132,Santa Catarina
 2020,17,NA,Santa Catarina
+2020,18,NA,Santa Catarina
 2011,1,0,Rio Grande do Sul
 2011,2,0,Rio Grande do Sul
 2011,3,1,Rio Grande do Sul
@@ -11169,14 +11191,15 @@ ano,epiweek,casos,territory_name
 2020,7,15,Rio Grande do Sul
 2020,8,22,Rio Grande do Sul
 2020,9,19,Rio Grande do Sul
-2020,10,39,Rio Grande do Sul
+2020,10,41,Rio Grande do Sul
 2020,11,63,Rio Grande do Sul
-2020,12,292,Rio Grande do Sul
-2020,13,401,Rio Grande do Sul
-2020,14,329,Rio Grande do Sul
-2020,15,295,Rio Grande do Sul
-2020,16,NA,Rio Grande do Sul
+2020,12,293,Rio Grande do Sul
+2020,13,404,Rio Grande do Sul
+2020,14,330,Rio Grande do Sul
+2020,15,309,Rio Grande do Sul
+2020,16,357,Rio Grande do Sul
 2020,17,NA,Rio Grande do Sul
+2020,18,NA,Rio Grande do Sul
 2011,1,0,Mato Grosso do Sul
 2011,2,0,Mato Grosso do Sul
 2011,3,0,Mato Grosso do Sul
@@ -11653,16 +11676,17 @@ ano,epiweek,casos,territory_name
 2020,5,8,Mato Grosso do Sul
 2020,6,12,Mato Grosso do Sul
 2020,7,5,Mato Grosso do Sul
-2020,8,8,Mato Grosso do Sul
-2020,9,14,Mato Grosso do Sul
-2020,10,14,Mato Grosso do Sul
-2020,11,53,Mato Grosso do Sul
-2020,12,141,Mato Grosso do Sul
+2020,8,12,Mato Grosso do Sul
+2020,9,15,Mato Grosso do Sul
+2020,10,16,Mato Grosso do Sul
+2020,11,58,Mato Grosso do Sul
+2020,12,152,Mato Grosso do Sul
 2020,13,122,Mato Grosso do Sul
-2020,14,115,Mato Grosso do Sul
-2020,15,75,Mato Grosso do Sul
-2020,16,NA,Mato Grosso do Sul
+2020,14,120,Mato Grosso do Sul
+2020,15,83,Mato Grosso do Sul
+2020,16,70,Mato Grosso do Sul
 2020,17,NA,Mato Grosso do Sul
+2020,18,NA,Mato Grosso do Sul
 2011,1,0,Mato Grosso
 2011,2,1,Mato Grosso
 2011,3,0,Mato Grosso
@@ -12145,10 +12169,11 @@ ano,epiweek,casos,territory_name
 2020,11,26,Mato Grosso
 2020,12,48,Mato Grosso
 2020,13,87,Mato Grosso
-2020,14,75,Mato Grosso
-2020,15,58,Mato Grosso
-2020,16,NA,Mato Grosso
+2020,14,77,Mato Grosso
+2020,15,60,Mato Grosso
+2020,16,56,Mato Grosso
 2020,17,NA,Mato Grosso
+2020,18,NA,Mato Grosso
 2011,1,0,Goiás
 2011,2,0,Goiás
 2011,3,2,Goiás
@@ -12628,13 +12653,14 @@ ano,epiweek,casos,territory_name
 2020,8,9,Goiás
 2020,9,14,Goiás
 2020,10,29,Goiás
-2020,11,75,Goiás
-2020,12,134,Goiás
-2020,13,107,Goiás
-2020,14,113,Goiás
-2020,15,74,Goiás
-2020,16,NA,Goiás
+2020,11,77,Goiás
+2020,12,138,Goiás
+2020,13,121,Goiás
+2020,14,122,Goiás
+2020,15,90,Goiás
+2020,16,91,Goiás
 2020,17,NA,Goiás
+2020,18,NA,Goiás
 2011,1,0,Distrito Federal
 2011,2,0,Distrito Federal
 2011,3,0,Distrito Federal
@@ -13116,8 +13142,9 @@ ano,epiweek,casos,territory_name
 2020,10,58,Distrito Federal
 2020,11,89,Distrito Federal
 2020,12,157,Distrito Federal
-2020,13,122,Distrito Federal
-2020,14,105,Distrito Federal
-2020,15,97,Distrito Federal
-2020,16,NA,Distrito Federal
+2020,13,125,Distrito Federal
+2020,14,108,Distrito Federal
+2020,15,102,Distrito Federal
+2020,16,99,Distrito Federal
 2020,17,NA,Distrito Federal
+2020,18,NA,Distrito Federal
