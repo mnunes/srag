@@ -4,6 +4,7 @@ library(shiny)
 library(tidyverse)
 theme_set(theme_bw() + theme(text = element_text(size = 12)))
 library(lubridate)
+library(janitor)
 library(plotly)
 library(scales)
 library(reshape2)
@@ -11,6 +12,7 @@ library(reshape2)
 # leitura dos dados
 
 casos_uf <- read_csv(file="casos_uf.csv")
+
 populacao <- read_csv(file="populacao.csv")
 
 # nomes das UFs
@@ -51,7 +53,7 @@ casos_uf <- casos_uf %>%
 
 srag_filtrado <- casos_uf %>%
 	#filter(epiweek <= max_week)
-	filter(epiweek <= 25)
+	filter(epiweek <= 30)
 
 #max_week <- srag_filtrado %>%
 #	filter(ano == max_ano) %>%
