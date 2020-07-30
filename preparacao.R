@@ -17,7 +17,7 @@ casos_uf <- casos_uf %>%
 	mutate(ano = Ano.epidemiológico, 
 				 territory_name = Unidade.da.Federação, 
 				 epiweek = Semana.epidemiológica, 
-				 casos = Total.reportado.até.a.última.atualização) %>%
+				 casos = Casos.semanais.reportados.até.a.última.atualização) %>%
 	filter(ano >= 2011) %>%
 	select(ano, epiweek, casos, territory_name) %>%
 	filter(territory_name %notin% c("Regional Centro", "Regional Leste", "Regional Norte", "Regional Sul", "Região Centro-oeste", "Região Norte", "Região Nordeste", "Região Sul", "Região Sudeste", "Brasil")) %>%
