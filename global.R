@@ -53,7 +53,7 @@ casos_uf <- casos_uf %>%
 
 srag_filtrado <- casos_uf %>%
 	#filter(epiweek <= max_week)
-	filter(epiweek <= 30)
+	filter(epiweek <= 35)
 
 #max_week <- srag_filtrado %>%
 #	filter(ano == max_ano) %>%
