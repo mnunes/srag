@@ -9,7 +9,7 @@ library(tidyverse)
 # leitura dos dados
 
 #casos_uf <- read_csv(file="~/srag/casos_uf.csv")
-casos_uf  <- read.table(file="Dados_InfoGripe_serie_temporal_com_estimativas_recentes.csv", sep = ";", dec = ",", header = TRUE)
+casos_uf  <- read.table(file="serie_temporal_com_estimativas_recentes.txt", sep = ";", dec = ",", header = TRUE)
 `%notin%` <- Negate(`%in%`)
 casos_uf <- casos_uf %>%
 	filter(escala == "casos") %>%
