@@ -23,4 +23,4 @@ casos_uf <- casos_uf %>%
 	filter(territory_name %notin% c("Regional Centro", "Regional Leste", "Regional Norte", "Regional Sul", "Região Centro-oeste", "Região Norte", "Região Nordeste", "Região Sul", "Região Sudeste", "Brasil")) %>%
 	mutate(casos = round(casos, digits = 0))
 
-write_csv(casos_uf, path = "casos_uf.csv")
+write_csv(casos_uf, file = "casos_uf.csv")
