@@ -3438,7 +3438,7 @@ ano,epiweek,casos,territory_name
 2013,5,16,Pernambuco
 2013,6,11,Pernambuco
 2013,7,26,Pernambuco
-2013,8,12,Pernambuco
+2013,8,13,Pernambuco
 2013,9,20,Pernambuco
 2013,10,27,Pernambuco
 2013,11,17,Pernambuco
@@ -11366,7 +11366,7 @@ ano,epiweek,casos,territory_name
 2019,2,4,Amazonas
 2019,3,5,Amazonas
 2019,4,11,Amazonas
-2019,5,22,Amazonas
+2019,5,23,Amazonas
 2019,6,23,Amazonas
 2019,7,86,Amazonas
 2019,8,155,Amazonas
@@ -11375,15 +11375,15 @@ ano,epiweek,casos,territory_name
 2019,11,171,Amazonas
 2019,12,126,Amazonas
 2019,13,95,Amazonas
-2019,14,87,Amazonas
+2019,14,88,Amazonas
 2019,15,70,Amazonas
 2019,16,74,Amazonas
 2019,17,59,Amazonas
-2019,18,36,Amazonas
+2019,18,37,Amazonas
 2019,19,37,Amazonas
 2019,20,38,Amazonas
 2019,21,30,Amazonas
-2019,22,35,Amazonas
+2019,22,36,Amazonas
 2019,23,35,Amazonas
 2019,24,20,Amazonas
 2019,25,15,Amazonas
@@ -11670,11 +11670,11 @@ ano,epiweek,casos,territory_name
 2019,46,2,Maranhão
 2019,47,5,Maranhão
 2019,48,2,Maranhão
-2019,49,3,Maranhão
+2019,49,4,Maranhão
 2019,50,2,Maranhão
 2019,51,2,Maranhão
 2019,52,0,Maranhão
-2019,1,6,Piauí
+2019,1,7,Piauí
 2019,2,7,Piauí
 2019,3,4,Piauí
 2019,4,4,Piauí
@@ -11700,9 +11700,9 @@ ano,epiweek,casos,territory_name
 2019,24,7,Piauí
 2019,25,7,Piauí
 2019,26,3,Piauí
-2019,27,5,Piauí
-2019,28,4,Piauí
-2019,29,9,Piauí
+2019,27,6,Piauí
+2019,28,6,Piauí
+2019,29,10,Piauí
 2019,30,2,Piauí
 2019,31,6,Piauí
 2019,32,1,Piauí
@@ -11723,7 +11723,7 @@ ano,epiweek,casos,territory_name
 2019,47,1,Piauí
 2019,48,2,Piauí
 2019,49,0,Piauí
-2019,50,5,Piauí
+2019,50,6,Piauí
 2019,51,0,Piauí
 2019,52,2,Piauí
 2019,1,3,Ceará
@@ -11823,7 +11823,7 @@ ano,epiweek,casos,territory_name
 2019,43,2,Rio Grande do Norte
 2019,44,4,Rio Grande do Norte
 2019,45,1,Rio Grande do Norte
-2019,46,0,Rio Grande do Norte
+2019,46,1,Rio Grande do Norte
 2019,47,3,Rio Grande do Norte
 2019,48,0,Rio Grande do Norte
 2019,49,1,Rio Grande do Norte
@@ -11930,7 +11930,7 @@ ano,epiweek,casos,territory_name
 2019,46,44,Pernambuco
 2019,47,46,Pernambuco
 2019,48,39,Pernambuco
-2019,49,47,Pernambuco
+2019,49,48,Pernambuco
 2019,50,29,Pernambuco
 2019,51,34,Pernambuco
 2019,52,21,Pernambuco
@@ -12020,7 +12020,7 @@ ano,epiweek,casos,territory_name
 2019,32,1,Sergipe
 2019,33,5,Sergipe
 2019,34,0,Sergipe
-2019,35,4,Sergipe
+2019,35,5,Sergipe
 2019,36,3,Sergipe
 2019,37,3,Sergipe
 2019,38,2,Sergipe
@@ -12052,7 +12052,7 @@ ano,epiweek,casos,territory_name
 2019,12,14,Bahia
 2019,13,16,Bahia
 2019,14,31,Bahia
-2019,15,26,Bahia
+2019,15,27,Bahia
 2019,16,43,Bahia
 2019,17,40,Bahia
 2019,18,68,Bahia
@@ -12062,12 +12062,12 @@ ano,epiweek,casos,territory_name
 2019,22,95,Bahia
 2019,23,87,Bahia
 2019,24,73,Bahia
-2019,25,50,Bahia
+2019,25,51,Bahia
 2019,26,37,Bahia
 2019,27,40,Bahia
 2019,28,26,Bahia
 2019,29,43,Bahia
-2019,30,38,Bahia
+2019,30,39,Bahia
 2019,31,32,Bahia
 2019,32,46,Bahia
 2019,33,17,Bahia
@@ -12171,7 +12171,7 @@ ano,epiweek,casos,territory_name
 2019,27,12,Espírito Santo
 2019,28,16,Espírito Santo
 2019,29,13,Espírito Santo
-2019,30,17,Espírito Santo
+2019,30,18,Espírito Santo
 2019,31,4,Espírito Santo
 2019,32,6,Espírito Santo
 2019,33,12,Espírito Santo
@@ -12222,7 +12222,7 @@ ano,epiweek,casos,territory_name
 2019,26,66,Rio de Janeiro
 2019,27,46,Rio de Janeiro
 2019,28,43,Rio de Janeiro
-2019,29,51,Rio de Janeiro
+2019,29,52,Rio de Janeiro
 2019,30,32,Rio de Janeiro
 2019,31,18,Rio de Janeiro
 2019,32,16,Rio de Janeiro
@@ -12248,10 +12248,10 @@ ano,epiweek,casos,territory_name
 2019,52,9,Rio de Janeiro
 2019,1,62,São Paulo
 2019,2,42,São Paulo
-2019,3,53,São Paulo
+2019,3,54,São Paulo
 2019,4,38,São Paulo
 2019,5,46,São Paulo
-2019,6,54,São Paulo
+2019,6,55,São Paulo
 2019,7,61,São Paulo
 2019,8,78,São Paulo
 2019,9,113,São Paulo
@@ -12263,7 +12263,7 @@ ano,epiweek,casos,territory_name
 2019,15,264,São Paulo
 2019,16,327,São Paulo
 2019,17,340,São Paulo
-2019,18,347,São Paulo
+2019,18,349,São Paulo
 2019,19,344,São Paulo
 2019,20,367,São Paulo
 2019,21,409,São Paulo
@@ -12277,11 +12277,11 @@ ano,epiweek,casos,territory_name
 2019,29,217,São Paulo
 2019,30,181,São Paulo
 2019,31,163,São Paulo
-2019,32,179,São Paulo
+2019,32,181,São Paulo
 2019,33,155,São Paulo
 2019,34,147,São Paulo
 2019,35,122,São Paulo
-2019,36,135,São Paulo
+2019,36,136,São Paulo
 2019,37,115,São Paulo
 2019,38,113,São Paulo
 2019,39,107,São Paulo
@@ -12289,13 +12289,13 @@ ano,epiweek,casos,territory_name
 2019,41,102,São Paulo
 2019,42,114,São Paulo
 2019,43,121,São Paulo
-2019,44,92,São Paulo
+2019,44,93,São Paulo
 2019,45,68,São Paulo
 2019,46,77,São Paulo
-2019,47,92,São Paulo
-2019,48,81,São Paulo
+2019,47,94,São Paulo
+2019,48,82,São Paulo
 2019,49,75,São Paulo
-2019,50,82,São Paulo
+2019,50,83,São Paulo
 2019,51,75,São Paulo
 2019,52,45,São Paulo
 2019,1,29,Paraná
@@ -12311,7 +12311,7 @@ ano,epiweek,casos,territory_name
 2019,11,50,Paraná
 2019,12,77,Paraná
 2019,13,90,Paraná
-2019,14,101,Paraná
+2019,14,103,Paraná
 2019,15,132,Paraná
 2019,16,156,Paraná
 2019,17,163,Paraná
@@ -12343,7 +12343,7 @@ ano,epiweek,casos,territory_name
 2019,43,87,Paraná
 2019,44,91,Paraná
 2019,45,77,Paraná
-2019,46,78,Paraná
+2019,46,79,Paraná
 2019,47,71,Paraná
 2019,48,61,Paraná
 2019,49,55,Paraná
@@ -12451,7 +12451,7 @@ ano,epiweek,casos,territory_name
 2019,47,25,Rio Grande do Sul
 2019,48,24,Rio Grande do Sul
 2019,49,27,Rio Grande do Sul
-2019,50,25,Rio Grande do Sul
+2019,50,26,Rio Grande do Sul
 2019,51,13,Rio Grande do Sul
 2019,52,23,Rio Grande do Sul
 2019,1,11,Mato Grosso do Sul
@@ -12521,7 +12521,7 @@ ano,epiweek,casos,territory_name
 2019,13,4,Mato Grosso
 2019,14,11,Mato Grosso
 2019,15,11,Mato Grosso
-2019,16,18,Mato Grosso
+2019,16,20,Mato Grosso
 2019,17,16,Mato Grosso
 2019,18,17,Mato Grosso
 2019,19,10,Mato Grosso
@@ -12543,7 +12543,7 @@ ano,epiweek,casos,territory_name
 2019,35,2,Mato Grosso
 2019,36,3,Mato Grosso
 2019,37,4,Mato Grosso
-2019,38,5,Mato Grosso
+2019,38,6,Mato Grosso
 2019,39,1,Mato Grosso
 2019,40,1,Mato Grosso
 2019,41,1,Mato Grosso
@@ -12633,7 +12633,7 @@ ano,epiweek,casos,territory_name
 2019,21,72,Distrito Federal
 2019,22,56,Distrito Federal
 2019,23,48,Distrito Federal
-2019,24,46,Distrito Federal
+2019,24,47,Distrito Federal
 2019,25,55,Distrito Federal
 2019,26,25,Distrito Federal
 2019,27,48,Distrito Federal
@@ -12662,105 +12662,135 @@ ano,epiweek,casos,territory_name
 2019,50,16,Distrito Federal
 2019,51,35,Distrito Federal
 2019,52,28,Distrito Federal
-2020,1,0,Rondônia
+2020,1,4,Rondônia
 2020,2,0,Rondônia
 2020,3,3,Rondônia
 2020,4,4,Rondônia
 2020,5,0,Rondônia
 2020,6,1,Rondônia
 2020,7,1,Rondônia
-2020,8,0,Rondônia
-2020,9,2,Rondônia
-2020,10,5,Rondônia
+2020,8,2,Rondônia
+2020,9,3,Rondônia
+2020,10,7,Rondônia
 2020,11,3,Rondônia
 2020,12,7,Rondônia
 2020,13,8,Rondônia
-2020,14,30,Rondônia
-2020,15,31,Rondônia
-2020,16,41,Rondônia
-2020,17,40,Rondônia
-2020,18,43,Rondônia
-2020,19,56,Rondônia
-2020,20,76,Rondônia
-2020,21,70,Rondônia
-2020,22,109,Rondônia
-2020,23,92,Rondônia
-2020,24,110,Rondônia
-2020,25,109,Rondônia
-2020,26,76,Rondônia
-2020,27,74,Rondônia
-2020,28,67,Rondônia
-2020,29,66,Rondônia
-2020,30,96,Rondônia
-2020,31,57,Rondônia
-2020,32,NA,Rondônia
-2020,33,NA,Rondônia
+2020,14,32,Rondônia
+2020,15,32,Rondônia
+2020,16,42,Rondônia
+2020,17,45,Rondônia
+2020,18,46,Rondônia
+2020,19,57,Rondônia
+2020,20,82,Rondônia
+2020,21,92,Rondônia
+2020,22,137,Rondônia
+2020,23,146,Rondônia
+2020,24,152,Rondônia
+2020,25,145,Rondônia
+2020,26,118,Rondônia
+2020,27,134,Rondônia
+2020,28,118,Rondônia
+2020,29,99,Rondônia
+2020,30,129,Rondônia
+2020,31,95,Rondônia
+2020,32,67,Rondônia
+2020,33,80,Rondônia
+2020,34,71,Rondônia
+2020,35,42,Rondônia
+2020,36,68,Rondônia
+2020,37,44,Rondônia
+2020,38,28,Rondônia
+2020,39,28,Rondônia
+2020,40,17,Rondônia
+2020,41,13,Rondônia
+2020,42,NA,Rondônia
+2020,43,NA,Rondônia
 2020,1,2,Acre
-2020,2,4,Acre
-2020,3,4,Acre
+2020,2,5,Acre
+2020,3,5,Acre
 2020,4,2,Acre
 2020,5,3,Acre
 2020,6,4,Acre
 2020,7,2,Acre
-2020,8,4,Acre
+2020,8,5,Acre
 2020,9,4,Acre
 2020,10,8,Acre
 2020,11,3,Acre
 2020,12,10,Acre
 2020,13,13,Acre
-2020,14,20,Acre
+2020,14,21,Acre
 2020,15,42,Acre
-2020,16,37,Acre
-2020,17,34,Acre
-2020,18,37,Acre
+2020,16,38,Acre
+2020,17,37,Acre
+2020,18,38,Acre
 2020,19,34,Acre
-2020,20,59,Acre
-2020,21,55,Acre
-2020,22,30,Acre
-2020,23,55,Acre
-2020,24,35,Acre
-2020,25,24,Acre
-2020,26,24,Acre
-2020,27,20,Acre
-2020,28,31,Acre
-2020,29,26,Acre
-2020,30,19,Acre
-2020,31,8,Acre
-2020,32,NA,Acre
-2020,33,NA,Acre
+2020,20,61,Acre
+2020,21,59,Acre
+2020,22,37,Acre
+2020,23,57,Acre
+2020,24,37,Acre
+2020,25,28,Acre
+2020,26,32,Acre
+2020,27,30,Acre
+2020,28,37,Acre
+2020,29,30,Acre
+2020,30,30,Acre
+2020,31,28,Acre
+2020,32,27,Acre
+2020,33,22,Acre
+2020,34,15,Acre
+2020,35,18,Acre
+2020,36,17,Acre
+2020,37,11,Acre
+2020,38,11,Acre
+2020,39,13,Acre
+2020,40,9,Acre
+2020,41,5,Acre
+2020,42,NA,Acre
+2020,43,NA,Acre
 2020,1,11,Amazonas
-2020,2,24,Amazonas
-2020,3,16,Amazonas
-2020,4,16,Amazonas
+2020,2,23,Amazonas
+2020,3,17,Amazonas
+2020,4,15,Amazonas
 2020,5,21,Amazonas
-2020,6,22,Amazonas
+2020,6,20,Amazonas
 2020,7,24,Amazonas
 2020,8,39,Amazonas
 2020,9,35,Amazonas
-2020,10,23,Amazonas
-2020,11,46,Amazonas
+2020,10,22,Amazonas
+2020,11,47,Amazonas
 2020,12,139,Amazonas
-2020,13,253,Amazonas
+2020,13,257,Amazonas
 2020,14,515,Amazonas
-2020,15,898,Amazonas
-2020,16,1048,Amazonas
-2020,17,1169,Amazonas
-2020,18,1026,Amazonas
-2020,19,740,Amazonas
-2020,20,678,Amazonas
-2020,21,459,Amazonas
-2020,22,338,Amazonas
-2020,23,311,Amazonas
-2020,24,260,Amazonas
-2020,25,232,Amazonas
-2020,26,144,Amazonas
-2020,27,220,Amazonas
-2020,28,173,Amazonas
-2020,29,148,Amazonas
-2020,30,104,Amazonas
-2020,31,109,Amazonas
-2020,32,NA,Amazonas
-2020,33,NA,Amazonas
+2020,15,909,Amazonas
+2020,16,1038,Amazonas
+2020,17,1162,Amazonas
+2020,18,1043,Amazonas
+2020,19,745,Amazonas
+2020,20,688,Amazonas
+2020,21,477,Amazonas
+2020,22,348,Amazonas
+2020,23,320,Amazonas
+2020,24,263,Amazonas
+2020,25,241,Amazonas
+2020,26,156,Amazonas
+2020,27,242,Amazonas
+2020,28,193,Amazonas
+2020,29,178,Amazonas
+2020,30,143,Amazonas
+2020,31,187,Amazonas
+2020,32,124,Amazonas
+2020,33,177,Amazonas
+2020,34,163,Amazonas
+2020,35,159,Amazonas
+2020,36,205,Amazonas
+2020,37,214,Amazonas
+2020,38,213,Amazonas
+2020,39,226,Amazonas
+2020,40,231,Amazonas
+2020,41,190,Amazonas
+2020,42,NA,Amazonas
+2020,43,NA,Amazonas
 2020,1,0,Roraima
 2020,2,1,Roraima
 2020,3,0,Roraima
@@ -12773,60 +12803,80 @@ ano,epiweek,casos,territory_name
 2020,10,1,Roraima
 2020,11,3,Roraima
 2020,12,9,Roraima
-2020,13,3,Roraima
+2020,13,4,Roraima
 2020,14,2,Roraima
-2020,15,9,Roraima
+2020,15,10,Roraima
 2020,16,11,Roraima
-2020,17,23,Roraima
-2020,18,18,Roraima
-2020,19,25,Roraima
-2020,20,38,Roraima
-2020,21,56,Roraima
-2020,22,59,Roraima
-2020,23,65,Roraima
-2020,24,62,Roraima
-2020,25,50,Roraima
-2020,26,44,Roraima
-2020,27,39,Roraima
-2020,28,26,Roraima
-2020,29,24,Roraima
-2020,30,15,Roraima
-2020,31,8,Roraima
-2020,32,NA,Roraima
-2020,33,NA,Roraima
+2020,17,24,Roraima
+2020,18,21,Roraima
+2020,19,28,Roraima
+2020,20,50,Roraima
+2020,21,75,Roraima
+2020,22,74,Roraima
+2020,23,83,Roraima
+2020,24,72,Roraima
+2020,25,61,Roraima
+2020,26,48,Roraima
+2020,27,52,Roraima
+2020,28,35,Roraima
+2020,29,43,Roraima
+2020,30,30,Roraima
+2020,31,25,Roraima
+2020,32,23,Roraima
+2020,33,9,Roraima
+2020,34,18,Roraima
+2020,35,12,Roraima
+2020,36,6,Roraima
+2020,37,8,Roraima
+2020,38,7,Roraima
+2020,39,9,Roraima
+2020,40,8,Roraima
+2020,41,4,Roraima
+2020,42,NA,Roraima
+2020,43,NA,Roraima
 2020,1,7,Pará
 2020,2,13,Pará
 2020,3,12,Pará
 2020,4,9,Pará
-2020,5,6,Pará
+2020,5,7,Pará
 2020,6,15,Pará
 2020,7,11,Pará
 2020,8,23,Pará
 2020,9,26,Pará
-2020,10,38,Pará
-2020,11,48,Pará
-2020,12,130,Pará
-2020,13,125,Pará
-2020,14,235,Pará
-2020,15,550,Pará
-2020,16,976,Pará
-2020,17,1417,Pará
-2020,18,1661,Pará
-2020,19,1424,Pará
-2020,20,1342,Pará
-2020,21,969,Pará
-2020,22,747,Pará
-2020,23,674,Pará
-2020,24,596,Pará
-2020,25,565,Pará
-2020,26,416,Pará
-2020,27,443,Pará
-2020,28,388,Pará
-2020,29,345,Pará
-2020,30,293,Pará
-2020,31,223,Pará
-2020,32,NA,Pará
-2020,33,NA,Pará
+2020,10,40,Pará
+2020,11,51,Pará
+2020,12,132,Pará
+2020,13,131,Pará
+2020,14,236,Pará
+2020,15,558,Pará
+2020,16,1010,Pará
+2020,17,1461,Pará
+2020,18,1707,Pará
+2020,19,1463,Pará
+2020,20,1383,Pará
+2020,21,1003,Pará
+2020,22,763,Pará
+2020,23,699,Pará
+2020,24,636,Pará
+2020,25,600,Pará
+2020,26,437,Pará
+2020,27,479,Pará
+2020,28,428,Pará
+2020,29,402,Pará
+2020,30,369,Pará
+2020,31,355,Pará
+2020,32,283,Pará
+2020,33,371,Pará
+2020,34,298,Pará
+2020,35,211,Pará
+2020,36,196,Pará
+2020,37,213,Pará
+2020,38,168,Pará
+2020,39,156,Pará
+2020,40,128,Pará
+2020,41,95,Pará
+2020,42,NA,Pará
+2020,43,NA,Pará
 2020,1,0,Amapá
 2020,2,0,Amapá
 2020,3,0,Amapá
@@ -12840,128 +12890,168 @@ ano,epiweek,casos,territory_name
 2020,11,3,Amapá
 2020,12,5,Amapá
 2020,13,13,Amapá
-2020,14,16,Amapá
-2020,15,10,Amapá
-2020,16,26,Amapá
-2020,17,58,Amapá
-2020,18,74,Amapá
-2020,19,75,Amapá
-2020,20,81,Amapá
-2020,21,73,Amapá
-2020,22,72,Amapá
-2020,23,72,Amapá
-2020,24,41,Amapá
-2020,25,38,Amapá
-2020,26,18,Amapá
-2020,27,24,Amapá
-2020,28,23,Amapá
-2020,29,14,Amapá
-2020,30,21,Amapá
-2020,31,11,Amapá
-2020,32,NA,Amapá
-2020,33,NA,Amapá
+2020,14,15,Amapá
+2020,15,13,Amapá
+2020,16,27,Amapá
+2020,17,66,Amapá
+2020,18,90,Amapá
+2020,19,93,Amapá
+2020,20,95,Amapá
+2020,21,88,Amapá
+2020,22,76,Amapá
+2020,23,83,Amapá
+2020,24,44,Amapá
+2020,25,42,Amapá
+2020,26,24,Amapá
+2020,27,40,Amapá
+2020,28,28,Amapá
+2020,29,23,Amapá
+2020,30,25,Amapá
+2020,31,32,Amapá
+2020,32,18,Amapá
+2020,33,26,Amapá
+2020,34,10,Amapá
+2020,35,13,Amapá
+2020,36,12,Amapá
+2020,37,15,Amapá
+2020,38,16,Amapá
+2020,39,18,Amapá
+2020,40,21,Amapá
+2020,41,10,Amapá
+2020,42,NA,Amapá
+2020,43,NA,Amapá
 2020,1,4,Tocantins
 2020,2,3,Tocantins
 2020,3,2,Tocantins
-2020,4,2,Tocantins
+2020,4,3,Tocantins
 2020,5,2,Tocantins
 2020,6,8,Tocantins
 2020,7,4,Tocantins
 2020,8,4,Tocantins
-2020,9,4,Tocantins
+2020,9,5,Tocantins
 2020,10,6,Tocantins
 2020,11,13,Tocantins
-2020,12,17,Tocantins
+2020,12,16,Tocantins
 2020,13,16,Tocantins
 2020,14,7,Tocantins
 2020,15,11,Tocantins
-2020,16,15,Tocantins
-2020,17,42,Tocantins
-2020,18,59,Tocantins
-2020,19,63,Tocantins
-2020,20,74,Tocantins
-2020,21,65,Tocantins
-2020,22,65,Tocantins
-2020,23,68,Tocantins
-2020,24,62,Tocantins
-2020,25,80,Tocantins
-2020,26,73,Tocantins
-2020,27,82,Tocantins
-2020,28,103,Tocantins
-2020,29,69,Tocantins
-2020,30,72,Tocantins
-2020,31,67,Tocantins
-2020,32,NA,Tocantins
-2020,33,NA,Tocantins
+2020,16,21,Tocantins
+2020,17,50,Tocantins
+2020,18,71,Tocantins
+2020,19,72,Tocantins
+2020,20,80,Tocantins
+2020,21,68,Tocantins
+2020,22,71,Tocantins
+2020,23,80,Tocantins
+2020,24,68,Tocantins
+2020,25,88,Tocantins
+2020,26,83,Tocantins
+2020,27,86,Tocantins
+2020,28,117,Tocantins
+2020,29,86,Tocantins
+2020,30,92,Tocantins
+2020,31,86,Tocantins
+2020,32,105,Tocantins
+2020,33,126,Tocantins
+2020,34,99,Tocantins
+2020,35,98,Tocantins
+2020,36,79,Tocantins
+2020,37,49,Tocantins
+2020,38,55,Tocantins
+2020,39,47,Tocantins
+2020,40,22,Tocantins
+2020,41,22,Tocantins
+2020,42,NA,Tocantins
+2020,43,NA,Tocantins
 2020,1,3,Maranhão
 2020,2,3,Maranhão
 2020,3,7,Maranhão
 2020,4,7,Maranhão
 2020,5,11,Maranhão
-2020,6,26,Maranhão
-2020,7,36,Maranhão
-2020,8,68,Maranhão
-2020,9,69,Maranhão
-2020,10,86,Maranhão
-2020,11,113,Maranhão
-2020,12,119,Maranhão
-2020,13,153,Maranhão
-2020,14,238,Maranhão
-2020,15,396,Maranhão
-2020,16,543,Maranhão
-2020,17,594,Maranhão
-2020,18,761,Maranhão
-2020,19,600,Maranhão
-2020,20,527,Maranhão
-2020,21,470,Maranhão
-2020,22,308,Maranhão
-2020,23,285,Maranhão
-2020,24,227,Maranhão
-2020,25,219,Maranhão
-2020,26,113,Maranhão
-2020,27,95,Maranhão
-2020,28,70,Maranhão
-2020,29,44,Maranhão
-2020,30,39,Maranhão
-2020,31,28,Maranhão
-2020,32,NA,Maranhão
-2020,33,NA,Maranhão
-2020,1,3,Piauí
+2020,6,28,Maranhão
+2020,7,37,Maranhão
+2020,8,67,Maranhão
+2020,9,68,Maranhão
+2020,10,84,Maranhão
+2020,11,119,Maranhão
+2020,12,133,Maranhão
+2020,13,174,Maranhão
+2020,14,298,Maranhão
+2020,15,479,Maranhão
+2020,16,686,Maranhão
+2020,17,729,Maranhão
+2020,18,1064,Maranhão
+2020,19,754,Maranhão
+2020,20,681,Maranhão
+2020,21,541,Maranhão
+2020,22,348,Maranhão
+2020,23,346,Maranhão
+2020,24,284,Maranhão
+2020,25,282,Maranhão
+2020,26,151,Maranhão
+2020,27,122,Maranhão
+2020,28,110,Maranhão
+2020,29,79,Maranhão
+2020,30,96,Maranhão
+2020,31,78,Maranhão
+2020,32,71,Maranhão
+2020,33,74,Maranhão
+2020,34,86,Maranhão
+2020,35,37,Maranhão
+2020,36,44,Maranhão
+2020,37,35,Maranhão
+2020,38,34,Maranhão
+2020,39,29,Maranhão
+2020,40,15,Maranhão
+2020,41,9,Maranhão
+2020,42,NA,Maranhão
+2020,43,NA,Maranhão
+2020,1,4,Piauí
 2020,2,3,Piauí
-2020,3,1,Piauí
+2020,3,3,Piauí
 2020,4,1,Piauí
-2020,5,4,Piauí
-2020,6,7,Piauí
-2020,7,12,Piauí
+2020,5,5,Piauí
+2020,6,8,Piauí
+2020,7,13,Piauí
 2020,8,10,Piauí
-2020,9,20,Piauí
+2020,9,21,Piauí
 2020,10,32,Piauí
-2020,11,46,Piauí
-2020,12,100,Piauí
-2020,13,108,Piauí
-2020,14,85,Piauí
-2020,15,82,Piauí
-2020,16,106,Piauí
-2020,17,116,Piauí
-2020,18,173,Piauí
-2020,19,191,Piauí
-2020,20,222,Piauí
-2020,21,247,Piauí
-2020,22,218,Piauí
-2020,23,324,Piauí
-2020,24,343,Piauí
-2020,25,361,Piauí
-2020,26,258,Piauí
-2020,27,286,Piauí
-2020,28,271,Piauí
-2020,29,169,Piauí
-2020,30,135,Piauí
-2020,31,93,Piauí
-2020,32,NA,Piauí
-2020,33,NA,Piauí
+2020,11,52,Piauí
+2020,12,110,Piauí
+2020,13,116,Piauí
+2020,14,95,Piauí
+2020,15,89,Piauí
+2020,16,111,Piauí
+2020,17,129,Piauí
+2020,18,194,Piauí
+2020,19,216,Piauí
+2020,20,245,Piauí
+2020,21,270,Piauí
+2020,22,234,Piauí
+2020,23,352,Piauí
+2020,24,375,Piauí
+2020,25,417,Piauí
+2020,26,296,Piauí
+2020,27,350,Piauí
+2020,28,317,Piauí
+2020,29,214,Piauí
+2020,30,195,Piauí
+2020,31,172,Piauí
+2020,32,165,Piauí
+2020,33,190,Piauí
+2020,34,133,Piauí
+2020,35,135,Piauí
+2020,36,115,Piauí
+2020,37,97,Piauí
+2020,38,104,Piauí
+2020,39,96,Piauí
+2020,40,97,Piauí
+2020,41,74,Piauí
+2020,42,NA,Piauí
+2020,43,NA,Piauí
 2020,1,11,Ceará
 2020,2,19,Ceará
-2020,3,26,Ceará
+2020,3,27,Ceará
 2020,4,24,Ceará
 2020,5,25,Ceará
 2020,6,29,Ceará
@@ -12969,29 +13059,39 @@ ano,epiweek,casos,territory_name
 2020,8,35,Ceará
 2020,9,33,Ceará
 2020,10,62,Ceará
-2020,11,100,Ceará
-2020,12,307,Ceará
-2020,13,387,Ceará
-2020,14,436,Ceará
-2020,15,638,Ceará
-2020,16,923,Ceará
-2020,17,1362,Ceará
-2020,18,1858,Ceará
-2020,19,1899,Ceará
-2020,20,1596,Ceará
-2020,21,1104,Ceará
-2020,22,799,Ceará
-2020,23,762,Ceará
-2020,24,679,Ceará
-2020,25,617,Ceará
-2020,26,485,Ceará
-2020,27,521,Ceará
-2020,28,416,Ceará
-2020,29,391,Ceará
-2020,30,358,Ceará
-2020,31,223,Ceará
-2020,32,NA,Ceará
-2020,33,NA,Ceará
+2020,11,103,Ceará
+2020,12,311,Ceará
+2020,13,392,Ceará
+2020,14,440,Ceará
+2020,15,644,Ceará
+2020,16,932,Ceará
+2020,17,1370,Ceará
+2020,18,1893,Ceará
+2020,19,1940,Ceará
+2020,20,1633,Ceará
+2020,21,1135,Ceará
+2020,22,823,Ceará
+2020,23,778,Ceará
+2020,24,689,Ceará
+2020,25,633,Ceará
+2020,26,506,Ceará
+2020,27,578,Ceará
+2020,28,471,Ceará
+2020,29,432,Ceará
+2020,30,398,Ceará
+2020,31,283,Ceará
+2020,32,275,Ceará
+2020,33,265,Ceará
+2020,34,240,Ceará
+2020,35,208,Ceará
+2020,36,207,Ceará
+2020,37,185,Ceará
+2020,38,181,Ceará
+2020,39,145,Ceará
+2020,40,163,Ceará
+2020,41,136,Ceará
+2020,42,NA,Ceará
+2020,43,NA,Ceará
 2020,1,0,Rio Grande do Norte
 2020,2,3,Rio Grande do Norte
 2020,3,2,Rio Grande do Norte
@@ -13003,127 +13103,167 @@ ano,epiweek,casos,territory_name
 2020,9,1,Rio Grande do Norte
 2020,10,11,Rio Grande do Norte
 2020,11,30,Rio Grande do Norte
-2020,12,70,Rio Grande do Norte
-2020,13,46,Rio Grande do Norte
-2020,14,60,Rio Grande do Norte
-2020,15,56,Rio Grande do Norte
+2020,12,73,Rio Grande do Norte
+2020,13,48,Rio Grande do Norte
+2020,14,59,Rio Grande do Norte
+2020,15,57,Rio Grande do Norte
 2020,16,53,Rio Grande do Norte
 2020,17,99,Rio Grande do Norte
-2020,18,151,Rio Grande do Norte
-2020,19,152,Rio Grande do Norte
-2020,20,204,Rio Grande do Norte
-2020,21,236,Rio Grande do Norte
-2020,22,230,Rio Grande do Norte
-2020,23,299,Rio Grande do Norte
-2020,24,253,Rio Grande do Norte
-2020,25,248,Rio Grande do Norte
-2020,26,177,Rio Grande do Norte
-2020,27,179,Rio Grande do Norte
-2020,28,152,Rio Grande do Norte
-2020,29,119,Rio Grande do Norte
-2020,30,74,Rio Grande do Norte
-2020,31,41,Rio Grande do Norte
-2020,32,NA,Rio Grande do Norte
-2020,33,NA,Rio Grande do Norte
+2020,18,155,Rio Grande do Norte
+2020,19,154,Rio Grande do Norte
+2020,20,210,Rio Grande do Norte
+2020,21,239,Rio Grande do Norte
+2020,22,244,Rio Grande do Norte
+2020,23,317,Rio Grande do Norte
+2020,24,272,Rio Grande do Norte
+2020,25,272,Rio Grande do Norte
+2020,26,196,Rio Grande do Norte
+2020,27,209,Rio Grande do Norte
+2020,28,167,Rio Grande do Norte
+2020,29,158,Rio Grande do Norte
+2020,30,113,Rio Grande do Norte
+2020,31,95,Rio Grande do Norte
+2020,32,84,Rio Grande do Norte
+2020,33,73,Rio Grande do Norte
+2020,34,63,Rio Grande do Norte
+2020,35,52,Rio Grande do Norte
+2020,36,62,Rio Grande do Norte
+2020,37,53,Rio Grande do Norte
+2020,38,46,Rio Grande do Norte
+2020,39,36,Rio Grande do Norte
+2020,40,40,Rio Grande do Norte
+2020,41,33,Rio Grande do Norte
+2020,42,NA,Rio Grande do Norte
+2020,43,NA,Rio Grande do Norte
 2020,1,0,Paraíba
 2020,2,1,Paraíba
 2020,3,5,Paraíba
 2020,4,2,Paraíba
 2020,5,3,Paraíba
-2020,6,4,Paraíba
+2020,6,3,Paraíba
 2020,7,9,Paraíba
 2020,8,1,Paraíba
-2020,9,2,Paraíba
-2020,10,5,Paraíba
-2020,11,16,Paraíba
-2020,12,65,Paraíba
-2020,13,87,Paraíba
-2020,14,76,Paraíba
-2020,15,83,Paraíba
-2020,16,115,Paraíba
-2020,17,179,Paraíba
-2020,18,239,Paraíba
-2020,19,276,Paraíba
-2020,20,254,Paraíba
-2020,21,302,Paraíba
-2020,22,271,Paraíba
-2020,23,249,Paraíba
-2020,24,191,Paraíba
-2020,25,195,Paraíba
-2020,26,151,Paraíba
-2020,27,166,Paraíba
-2020,28,149,Paraíba
-2020,29,123,Paraíba
-2020,30,122,Paraíba
-2020,31,72,Paraíba
-2020,32,NA,Paraíba
-2020,33,NA,Paraíba
+2020,9,3,Paraíba
+2020,10,14,Paraíba
+2020,11,29,Paraíba
+2020,12,81,Paraíba
+2020,13,95,Paraíba
+2020,14,81,Paraíba
+2020,15,89,Paraíba
+2020,16,127,Paraíba
+2020,17,192,Paraíba
+2020,18,259,Paraíba
+2020,19,294,Paraíba
+2020,20,292,Paraíba
+2020,21,334,Paraíba
+2020,22,292,Paraíba
+2020,23,260,Paraíba
+2020,24,215,Paraíba
+2020,25,219,Paraíba
+2020,26,167,Paraíba
+2020,27,199,Paraíba
+2020,28,162,Paraíba
+2020,29,139,Paraíba
+2020,30,147,Paraíba
+2020,31,120,Paraíba
+2020,32,127,Paraíba
+2020,33,112,Paraíba
+2020,34,103,Paraíba
+2020,35,99,Paraíba
+2020,36,95,Paraíba
+2020,37,96,Paraíba
+2020,38,89,Paraíba
+2020,39,93,Paraíba
+2020,40,83,Paraíba
+2020,41,85,Paraíba
+2020,42,NA,Paraíba
+2020,43,NA,Paraíba
 2020,1,17,Pernambuco
-2020,2,22,Pernambuco
-2020,3,24,Pernambuco
+2020,2,23,Pernambuco
+2020,3,23,Pernambuco
 2020,4,20,Pernambuco
 2020,5,16,Pernambuco
 2020,6,18,Pernambuco
-2020,7,18,Pernambuco
-2020,8,48,Pernambuco
-2020,9,41,Pernambuco
-2020,10,50,Pernambuco
-2020,11,116,Pernambuco
-2020,12,351,Pernambuco
-2020,13,330,Pernambuco
-2020,14,400,Pernambuco
-2020,15,643,Pernambuco
-2020,16,878,Pernambuco
-2020,17,1028,Pernambuco
-2020,18,1140,Pernambuco
-2020,19,1110,Pernambuco
-2020,20,1053,Pernambuco
-2020,21,853,Pernambuco
-2020,22,728,Pernambuco
-2020,23,674,Pernambuco
-2020,24,494,Pernambuco
-2020,25,552,Pernambuco
-2020,26,396,Pernambuco
-2020,27,493,Pernambuco
-2020,28,481,Pernambuco
-2020,29,405,Pernambuco
-2020,30,315,Pernambuco
-2020,31,232,Pernambuco
-2020,32,NA,Pernambuco
-2020,33,NA,Pernambuco
+2020,7,20,Pernambuco
+2020,8,46,Pernambuco
+2020,9,42,Pernambuco
+2020,10,54,Pernambuco
+2020,11,123,Pernambuco
+2020,12,356,Pernambuco
+2020,13,333,Pernambuco
+2020,14,404,Pernambuco
+2020,15,691,Pernambuco
+2020,16,924,Pernambuco
+2020,17,1113,Pernambuco
+2020,18,1198,Pernambuco
+2020,19,1235,Pernambuco
+2020,20,1193,Pernambuco
+2020,21,944,Pernambuco
+2020,22,758,Pernambuco
+2020,23,734,Pernambuco
+2020,24,544,Pernambuco
+2020,25,590,Pernambuco
+2020,26,432,Pernambuco
+2020,27,527,Pernambuco
+2020,28,510,Pernambuco
+2020,29,466,Pernambuco
+2020,30,426,Pernambuco
+2020,31,422,Pernambuco
+2020,32,353,Pernambuco
+2020,33,377,Pernambuco
+2020,34,350,Pernambuco
+2020,35,323,Pernambuco
+2020,36,331,Pernambuco
+2020,37,269,Pernambuco
+2020,38,271,Pernambuco
+2020,39,252,Pernambuco
+2020,40,217,Pernambuco
+2020,41,199,Pernambuco
+2020,42,NA,Pernambuco
+2020,43,NA,Pernambuco
 2020,1,0,Alagoas
-2020,2,4,Alagoas
+2020,2,2,Alagoas
 2020,3,2,Alagoas
 2020,4,0,Alagoas
-2020,5,3,Alagoas
+2020,5,2,Alagoas
 2020,6,2,Alagoas
 2020,7,4,Alagoas
 2020,8,3,Alagoas
 2020,9,1,Alagoas
-2020,10,5,Alagoas
-2020,11,9,Alagoas
-2020,12,28,Alagoas
-2020,13,27,Alagoas
-2020,14,30,Alagoas
-2020,15,73,Alagoas
-2020,16,133,Alagoas
-2020,17,197,Alagoas
-2020,18,271,Alagoas
-2020,19,373,Alagoas
-2020,20,433,Alagoas
-2020,21,395,Alagoas
-2020,22,323,Alagoas
-2020,23,339,Alagoas
-2020,24,318,Alagoas
-2020,25,276,Alagoas
+2020,10,6,Alagoas
+2020,11,10,Alagoas
+2020,12,29,Alagoas
+2020,13,25,Alagoas
+2020,14,31,Alagoas
+2020,15,71,Alagoas
+2020,16,132,Alagoas
+2020,17,201,Alagoas
+2020,18,289,Alagoas
+2020,19,376,Alagoas
+2020,20,429,Alagoas
+2020,21,401,Alagoas
+2020,22,343,Alagoas
+2020,23,365,Alagoas
+2020,24,309,Alagoas
+2020,25,281,Alagoas
 2020,26,178,Alagoas
-2020,27,200,Alagoas
-2020,28,184,Alagoas
-2020,29,127,Alagoas
-2020,30,127,Alagoas
-2020,31,83,Alagoas
-2020,32,NA,Alagoas
-2020,33,NA,Alagoas
+2020,27,206,Alagoas
+2020,28,191,Alagoas
+2020,29,133,Alagoas
+2020,30,150,Alagoas
+2020,31,96,Alagoas
+2020,32,82,Alagoas
+2020,33,80,Alagoas
+2020,34,64,Alagoas
+2020,35,59,Alagoas
+2020,36,61,Alagoas
+2020,37,51,Alagoas
+2020,38,55,Alagoas
+2020,39,40,Alagoas
+2020,40,40,Alagoas
+2020,41,38,Alagoas
+2020,42,NA,Alagoas
+2020,43,NA,Alagoas
 2020,1,1,Sergipe
 2020,2,0,Sergipe
 2020,3,1,Sergipe
@@ -13131,98 +13271,128 @@ ano,epiweek,casos,territory_name
 2020,5,1,Sergipe
 2020,6,1,Sergipe
 2020,7,2,Sergipe
-2020,8,2,Sergipe
+2020,8,3,Sergipe
 2020,9,4,Sergipe
 2020,10,2,Sergipe
-2020,11,12,Sergipe
+2020,11,13,Sergipe
 2020,12,25,Sergipe
-2020,13,25,Sergipe
+2020,13,23,Sergipe
 2020,14,19,Sergipe
 2020,15,25,Sergipe
-2020,16,19,Sergipe
+2020,16,22,Sergipe
 2020,17,29,Sergipe
-2020,18,44,Sergipe
-2020,19,50,Sergipe
-2020,20,56,Sergipe
-2020,21,63,Sergipe
-2020,22,73,Sergipe
-2020,23,112,Sergipe
-2020,24,130,Sergipe
+2020,18,46,Sergipe
+2020,19,53,Sergipe
+2020,20,58,Sergipe
+2020,21,62,Sergipe
+2020,22,79,Sergipe
+2020,23,114,Sergipe
+2020,24,131,Sergipe
 2020,25,181,Sergipe
-2020,26,143,Sergipe
-2020,27,175,Sergipe
-2020,28,145,Sergipe
-2020,29,118,Sergipe
-2020,30,113,Sergipe
-2020,31,70,Sergipe
-2020,32,NA,Sergipe
-2020,33,NA,Sergipe
+2020,26,147,Sergipe
+2020,27,184,Sergipe
+2020,28,151,Sergipe
+2020,29,128,Sergipe
+2020,30,116,Sergipe
+2020,31,77,Sergipe
+2020,32,56,Sergipe
+2020,33,45,Sergipe
+2020,34,39,Sergipe
+2020,35,34,Sergipe
+2020,36,44,Sergipe
+2020,37,40,Sergipe
+2020,38,33,Sergipe
+2020,39,39,Sergipe
+2020,40,34,Sergipe
+2020,41,21,Sergipe
+2020,42,NA,Sergipe
+2020,43,NA,Sergipe
 2020,1,11,Bahia
 2020,2,11,Bahia
 2020,3,14,Bahia
-2020,4,12,Bahia
+2020,4,11,Bahia
 2020,5,15,Bahia
-2020,6,19,Bahia
+2020,6,20,Bahia
 2020,7,17,Bahia
 2020,8,26,Bahia
-2020,9,54,Bahia
-2020,10,53,Bahia
-2020,11,105,Bahia
-2020,12,156,Bahia
-2020,13,123,Bahia
-2020,14,133,Bahia
-2020,15,169,Bahia
-2020,16,192,Bahia
-2020,17,222,Bahia
-2020,18,311,Bahia
-2020,19,378,Bahia
-2020,20,509,Bahia
-2020,21,516,Bahia
-2020,22,557,Bahia
-2020,23,616,Bahia
-2020,24,551,Bahia
-2020,25,579,Bahia
-2020,26,476,Bahia
-2020,27,513,Bahia
-2020,28,503,Bahia
-2020,29,449,Bahia
-2020,30,349,Bahia
-2020,31,221,Bahia
-2020,32,NA,Bahia
-2020,33,NA,Bahia
-2020,1,31,Minas Gerais
-2020,2,26,Minas Gerais
+2020,9,53,Bahia
+2020,10,61,Bahia
+2020,11,110,Bahia
+2020,12,157,Bahia
+2020,13,129,Bahia
+2020,14,134,Bahia
+2020,15,159,Bahia
+2020,16,187,Bahia
+2020,17,223,Bahia
+2020,18,315,Bahia
+2020,19,388,Bahia
+2020,20,515,Bahia
+2020,21,532,Bahia
+2020,22,562,Bahia
+2020,23,628,Bahia
+2020,24,575,Bahia
+2020,25,606,Bahia
+2020,26,541,Bahia
+2020,27,574,Bahia
+2020,28,540,Bahia
+2020,29,505,Bahia
+2020,30,405,Bahia
+2020,31,340,Bahia
+2020,32,301,Bahia
+2020,33,337,Bahia
+2020,34,305,Bahia
+2020,35,220,Bahia
+2020,36,230,Bahia
+2020,37,275,Bahia
+2020,38,254,Bahia
+2020,39,219,Bahia
+2020,40,223,Bahia
+2020,41,179,Bahia
+2020,42,NA,Bahia
+2020,43,NA,Bahia
+2020,1,30,Minas Gerais
+2020,2,28,Minas Gerais
 2020,3,33,Minas Gerais
-2020,4,29,Minas Gerais
-2020,5,26,Minas Gerais
+2020,4,31,Minas Gerais
+2020,5,28,Minas Gerais
 2020,6,27,Minas Gerais
-2020,7,36,Minas Gerais
+2020,7,35,Minas Gerais
 2020,8,38,Minas Gerais
-2020,9,59,Minas Gerais
+2020,9,62,Minas Gerais
 2020,10,99,Minas Gerais
-2020,11,293,Minas Gerais
-2020,12,745,Minas Gerais
-2020,13,709,Minas Gerais
-2020,14,622,Minas Gerais
-2020,15,526,Minas Gerais
-2020,16,449,Minas Gerais
-2020,17,543,Minas Gerais
-2020,18,558,Minas Gerais
-2020,19,532,Minas Gerais
-2020,20,658,Minas Gerais
-2020,21,661,Minas Gerais
-2020,22,688,Minas Gerais
-2020,23,997,Minas Gerais
-2020,24,1087,Minas Gerais
-2020,25,1344,Minas Gerais
-2020,26,1402,Minas Gerais
-2020,27,1589,Minas Gerais
-2020,28,1421,Minas Gerais
-2020,29,1312,Minas Gerais
-2020,30,1213,Minas Gerais
-2020,31,850,Minas Gerais
-2020,32,NA,Minas Gerais
-2020,33,NA,Minas Gerais
+2020,11,294,Minas Gerais
+2020,12,759,Minas Gerais
+2020,13,712,Minas Gerais
+2020,14,627,Minas Gerais
+2020,15,531,Minas Gerais
+2020,16,459,Minas Gerais
+2020,17,553,Minas Gerais
+2020,18,570,Minas Gerais
+2020,19,561,Minas Gerais
+2020,20,686,Minas Gerais
+2020,21,675,Minas Gerais
+2020,22,708,Minas Gerais
+2020,23,1023,Minas Gerais
+2020,24,1109,Minas Gerais
+2020,25,1393,Minas Gerais
+2020,26,1458,Minas Gerais
+2020,27,1654,Minas Gerais
+2020,28,1473,Minas Gerais
+2020,29,1401,Minas Gerais
+2020,30,1343,Minas Gerais
+2020,31,1149,Minas Gerais
+2020,32,1092,Minas Gerais
+2020,33,1163,Minas Gerais
+2020,34,977,Minas Gerais
+2020,35,951,Minas Gerais
+2020,36,978,Minas Gerais
+2020,37,867,Minas Gerais
+2020,38,863,Minas Gerais
+2020,39,763,Minas Gerais
+2020,40,757,Minas Gerais
+2020,41,620,Minas Gerais
+2020,42,NA,Minas Gerais
+2020,43,NA,Minas Gerais
 2020,1,1,Espírito Santo
 2020,2,5,Espírito Santo
 2020,3,5,Espírito Santo
@@ -13232,198 +13402,258 @@ ano,epiweek,casos,territory_name
 2020,7,6,Espírito Santo
 2020,8,5,Espírito Santo
 2020,9,14,Espírito Santo
-2020,10,10,Espírito Santo
+2020,10,9,Espírito Santo
 2020,11,25,Espírito Santo
-2020,12,56,Espírito Santo
-2020,13,48,Espírito Santo
-2020,14,65,Espírito Santo
-2020,15,55,Espírito Santo
-2020,16,82,Espírito Santo
-2020,17,90,Espírito Santo
-2020,18,109,Espírito Santo
-2020,19,140,Espírito Santo
-2020,20,133,Espírito Santo
-2020,21,161,Espírito Santo
-2020,22,148,Espírito Santo
-2020,23,149,Espírito Santo
-2020,24,143,Espírito Santo
-2020,25,81,Espírito Santo
-2020,26,86,Espírito Santo
-2020,27,85,Espírito Santo
-2020,28,68,Espírito Santo
-2020,29,51,Espírito Santo
-2020,30,36,Espírito Santo
-2020,31,33,Espírito Santo
-2020,32,NA,Espírito Santo
-2020,33,NA,Espírito Santo
+2020,12,64,Espírito Santo
+2020,13,53,Espírito Santo
+2020,14,90,Espírito Santo
+2020,15,61,Espírito Santo
+2020,16,86,Espírito Santo
+2020,17,93,Espírito Santo
+2020,18,110,Espírito Santo
+2020,19,146,Espírito Santo
+2020,20,136,Espírito Santo
+2020,21,164,Espírito Santo
+2020,22,154,Espírito Santo
+2020,23,156,Espírito Santo
+2020,24,159,Espírito Santo
+2020,25,122,Espírito Santo
+2020,26,117,Espírito Santo
+2020,27,111,Espírito Santo
+2020,28,80,Espírito Santo
+2020,29,69,Espírito Santo
+2020,30,58,Espírito Santo
+2020,31,66,Espírito Santo
+2020,32,44,Espírito Santo
+2020,33,53,Espírito Santo
+2020,34,43,Espírito Santo
+2020,35,33,Espírito Santo
+2020,36,31,Espírito Santo
+2020,37,35,Espírito Santo
+2020,38,28,Espírito Santo
+2020,39,27,Espírito Santo
+2020,40,35,Espírito Santo
+2020,41,17,Espírito Santo
+2020,42,NA,Espírito Santo
+2020,43,NA,Espírito Santo
 2020,1,15,Rio de Janeiro
 2020,2,10,Rio de Janeiro
 2020,3,19,Rio de Janeiro
 2020,4,7,Rio de Janeiro
-2020,5,7,Rio de Janeiro
+2020,5,8,Rio de Janeiro
 2020,6,4,Rio de Janeiro
 2020,7,13,Rio de Janeiro
-2020,8,15,Rio de Janeiro
+2020,8,14,Rio de Janeiro
 2020,9,24,Rio de Janeiro
 2020,10,51,Rio de Janeiro
-2020,11,215,Rio de Janeiro
-2020,12,590,Rio de Janeiro
-2020,13,765,Rio de Janeiro
-2020,14,1033,Rio de Janeiro
-2020,15,1601,Rio de Janeiro
-2020,16,2119,Rio de Janeiro
-2020,17,2446,Rio de Janeiro
-2020,18,2481,Rio de Janeiro
-2020,19,1920,Rio de Janeiro
-2020,20,1846,Rio de Janeiro
-2020,21,1346,Rio de Janeiro
-2020,22,937,Rio de Janeiro
-2020,23,971,Rio de Janeiro
-2020,24,768,Rio de Janeiro
-2020,25,749,Rio de Janeiro
-2020,26,620,Rio de Janeiro
-2020,27,703,Rio de Janeiro
-2020,28,592,Rio de Janeiro
-2020,29,592,Rio de Janeiro
-2020,30,497,Rio de Janeiro
-2020,31,386,Rio de Janeiro
-2020,32,NA,Rio de Janeiro
-2020,33,NA,Rio de Janeiro
-2020,1,78,São Paulo
-2020,2,77,São Paulo
-2020,3,53,São Paulo
-2020,4,72,São Paulo
-2020,5,70,São Paulo
-2020,6,80,São Paulo
-2020,7,111,São Paulo
+2020,11,217,Rio de Janeiro
+2020,12,596,Rio de Janeiro
+2020,13,764,Rio de Janeiro
+2020,14,1044,Rio de Janeiro
+2020,15,1622,Rio de Janeiro
+2020,16,2141,Rio de Janeiro
+2020,17,2464,Rio de Janeiro
+2020,18,2503,Rio de Janeiro
+2020,19,1939,Rio de Janeiro
+2020,20,1873,Rio de Janeiro
+2020,21,1367,Rio de Janeiro
+2020,22,951,Rio de Janeiro
+2020,23,1007,Rio de Janeiro
+2020,24,793,Rio de Janeiro
+2020,25,780,Rio de Janeiro
+2020,26,642,Rio de Janeiro
+2020,27,758,Rio de Janeiro
+2020,28,668,Rio de Janeiro
+2020,29,667,Rio de Janeiro
+2020,30,660,Rio de Janeiro
+2020,31,604,Rio de Janeiro
+2020,32,546,Rio de Janeiro
+2020,33,583,Rio de Janeiro
+2020,34,547,Rio de Janeiro
+2020,35,608,Rio de Janeiro
+2020,36,636,Rio de Janeiro
+2020,37,585,Rio de Janeiro
+2020,38,445,Rio de Janeiro
+2020,39,437,Rio de Janeiro
+2020,40,459,Rio de Janeiro
+2020,41,343,Rio de Janeiro
+2020,42,NA,Rio de Janeiro
+2020,43,NA,Rio de Janeiro
+2020,1,80,São Paulo
+2020,2,80,São Paulo
+2020,3,54,São Paulo
+2020,4,74,São Paulo
+2020,5,74,São Paulo
+2020,6,86,São Paulo
+2020,7,113,São Paulo
 2020,8,180,São Paulo
-2020,9,209,São Paulo
-2020,10,414,São Paulo
-2020,11,1409,São Paulo
-2020,12,3675,São Paulo
-2020,13,4161,São Paulo
-2020,14,3686,São Paulo
-2020,15,3377,São Paulo
-2020,16,4027,São Paulo
-2020,17,4652,São Paulo
-2020,18,4761,São Paulo
-2020,19,4602,São Paulo
-2020,20,5113,São Paulo
-2020,21,4534,São Paulo
-2020,22,4149,São Paulo
-2020,23,4715,São Paulo
-2020,24,4252,São Paulo
-2020,25,4164,São Paulo
-2020,26,3697,São Paulo
-2020,27,4437,São Paulo
-2020,28,4336,São Paulo
-2020,29,3786,São Paulo
-2020,30,3261,São Paulo
-2020,31,2641,São Paulo
-2020,32,NA,São Paulo
-2020,33,NA,São Paulo
-2020,1,45,Paraná
-2020,2,34,Paraná
+2020,9,210,São Paulo
+2020,10,416,São Paulo
+2020,11,1419,São Paulo
+2020,12,3696,São Paulo
+2020,13,4175,São Paulo
+2020,14,3696,São Paulo
+2020,15,3401,São Paulo
+2020,16,4053,São Paulo
+2020,17,4678,São Paulo
+2020,18,4814,São Paulo
+2020,19,4629,São Paulo
+2020,20,5173,São Paulo
+2020,21,4567,São Paulo
+2020,22,4208,São Paulo
+2020,23,4783,São Paulo
+2020,24,4344,São Paulo
+2020,25,4268,São Paulo
+2020,26,3774,São Paulo
+2020,27,4573,São Paulo
+2020,28,4445,São Paulo
+2020,29,3954,São Paulo
+2020,30,3564,São Paulo
+2020,31,3067,São Paulo
+2020,32,2841,São Paulo
+2020,33,2661,São Paulo
+2020,34,2255,São Paulo
+2020,35,2195,São Paulo
+2020,36,2370,São Paulo
+2020,37,2030,São Paulo
+2020,38,1814,São Paulo
+2020,39,1735,São Paulo
+2020,40,1741,São Paulo
+2020,41,1451,São Paulo
+2020,42,NA,São Paulo
+2020,43,NA,São Paulo
+2020,1,46,Paraná
+2020,2,35,Paraná
 2020,3,42,Paraná
-2020,4,42,Paraná
+2020,4,43,Paraná
 2020,5,44,Paraná
 2020,6,40,Paraná
 2020,7,51,Paraná
-2020,8,44,Paraná
-2020,9,67,Paraná
-2020,10,85,Paraná
-2020,11,186,Paraná
-2020,12,412,Paraná
-2020,13,445,Paraná
-2020,14,381,Paraná
-2020,15,340,Paraná
-2020,16,364,Paraná
-2020,17,378,Paraná
-2020,18,342,Paraná
-2020,19,333,Paraná
-2020,20,349,Paraná
-2020,21,397,Paraná
-2020,22,417,Paraná
-2020,23,547,Paraná
-2020,24,671,Paraná
-2020,25,697,Paraná
-2020,26,577,Paraná
-2020,27,739,Paraná
-2020,28,774,Paraná
-2020,29,673,Paraná
-2020,30,610,Paraná
-2020,31,548,Paraná
-2020,32,NA,Paraná
-2020,33,NA,Paraná
+2020,8,45,Paraná
+2020,9,66,Paraná
+2020,10,87,Paraná
+2020,11,194,Paraná
+2020,12,415,Paraná
+2020,13,447,Paraná
+2020,14,380,Paraná
+2020,15,342,Paraná
+2020,16,366,Paraná
+2020,17,383,Paraná
+2020,18,347,Paraná
+2020,19,336,Paraná
+2020,20,359,Paraná
+2020,21,406,Paraná
+2020,22,427,Paraná
+2020,23,561,Paraná
+2020,24,679,Paraná
+2020,25,703,Paraná
+2020,26,596,Paraná
+2020,27,770,Paraná
+2020,28,793,Paraná
+2020,29,695,Paraná
+2020,30,671,Paraná
+2020,31,649,Paraná
+2020,32,618,Paraná
+2020,33,621,Paraná
+2020,34,487,Paraná
+2020,35,569,Paraná
+2020,36,599,Paraná
+2020,37,477,Paraná
+2020,38,442,Paraná
+2020,39,436,Paraná
+2020,40,435,Paraná
+2020,41,353,Paraná
+2020,42,NA,Paraná
+2020,43,NA,Paraná
 2020,1,7,Santa Catarina
-2020,2,9,Santa Catarina
+2020,2,11,Santa Catarina
 2020,3,3,Santa Catarina
-2020,4,3,Santa Catarina
+2020,4,4,Santa Catarina
 2020,5,5,Santa Catarina
-2020,6,11,Santa Catarina
+2020,6,10,Santa Catarina
 2020,7,10,Santa Catarina
 2020,8,17,Santa Catarina
-2020,9,17,Santa Catarina
-2020,10,25,Santa Catarina
-2020,11,81,Santa Catarina
-2020,12,238,Santa Catarina
-2020,13,236,Santa Catarina
-2020,14,154,Santa Catarina
-2020,15,149,Santa Catarina
-2020,16,163,Santa Catarina
-2020,17,178,Santa Catarina
-2020,18,152,Santa Catarina
-2020,19,145,Santa Catarina
-2020,20,157,Santa Catarina
+2020,9,19,Santa Catarina
+2020,10,26,Santa Catarina
+2020,11,84,Santa Catarina
+2020,12,244,Santa Catarina
+2020,13,243,Santa Catarina
+2020,14,157,Santa Catarina
+2020,15,151,Santa Catarina
+2020,16,165,Santa Catarina
+2020,17,183,Santa Catarina
+2020,18,156,Santa Catarina
+2020,19,152,Santa Catarina
+2020,20,160,Santa Catarina
 2020,21,174,Santa Catarina
 2020,22,165,Santa Catarina
-2020,23,175,Santa Catarina
-2020,24,205,Santa Catarina
-2020,25,316,Santa Catarina
-2020,26,303,Santa Catarina
-2020,27,386,Santa Catarina
-2020,28,506,Santa Catarina
-2020,29,529,Santa Catarina
-2020,30,432,Santa Catarina
-2020,31,346,Santa Catarina
-2020,32,NA,Santa Catarina
-2020,33,NA,Santa Catarina
+2020,23,180,Santa Catarina
+2020,24,211,Santa Catarina
+2020,25,338,Santa Catarina
+2020,26,337,Santa Catarina
+2020,27,429,Santa Catarina
+2020,28,559,Santa Catarina
+2020,29,584,Santa Catarina
+2020,30,510,Santa Catarina
+2020,31,426,Santa Catarina
+2020,32,371,Santa Catarina
+2020,33,283,Santa Catarina
+2020,34,251,Santa Catarina
+2020,35,218,Santa Catarina
+2020,36,169,Santa Catarina
+2020,37,185,Santa Catarina
+2020,38,140,Santa Catarina
+2020,39,141,Santa Catarina
+2020,40,155,Santa Catarina
+2020,41,137,Santa Catarina
+2020,42,NA,Santa Catarina
+2020,43,NA,Santa Catarina
 2020,1,20,Rio Grande do Sul
 2020,2,18,Rio Grande do Sul
 2020,3,6,Rio Grande do Sul
-2020,4,17,Rio Grande do Sul
-2020,5,13,Rio Grande do Sul
+2020,4,16,Rio Grande do Sul
+2020,5,14,Rio Grande do Sul
 2020,6,13,Rio Grande do Sul
 2020,7,15,Rio Grande do Sul
-2020,8,23,Rio Grande do Sul
+2020,8,22,Rio Grande do Sul
 2020,9,18,Rio Grande do Sul
-2020,10,41,Rio Grande do Sul
-2020,11,71,Rio Grande do Sul
-2020,12,305,Rio Grande do Sul
-2020,13,411,Rio Grande do Sul
+2020,10,40,Rio Grande do Sul
+2020,11,72,Rio Grande do Sul
+2020,12,308,Rio Grande do Sul
+2020,13,413,Rio Grande do Sul
 2020,14,339,Rio Grande do Sul
-2020,15,322,Rio Grande do Sul
-2020,16,372,Rio Grande do Sul
-2020,17,420,Rio Grande do Sul
-2020,18,376,Rio Grande do Sul
-2020,19,368,Rio Grande do Sul
-2020,20,402,Rio Grande do Sul
-2020,21,365,Rio Grande do Sul
-2020,22,368,Rio Grande do Sul
-2020,23,445,Rio Grande do Sul
-2020,24,515,Rio Grande do Sul
-2020,25,649,Rio Grande do Sul
-2020,26,645,Rio Grande do Sul
-2020,27,674,Rio Grande do Sul
-2020,28,766,Rio Grande do Sul
-2020,29,746,Rio Grande do Sul
-2020,30,692,Rio Grande do Sul
-2020,31,595,Rio Grande do Sul
-2020,32,NA,Rio Grande do Sul
-2020,33,NA,Rio Grande do Sul
+2020,15,325,Rio Grande do Sul
+2020,16,374,Rio Grande do Sul
+2020,17,422,Rio Grande do Sul
+2020,18,379,Rio Grande do Sul
+2020,19,369,Rio Grande do Sul
+2020,20,400,Rio Grande do Sul
+2020,21,367,Rio Grande do Sul
+2020,22,371,Rio Grande do Sul
+2020,23,448,Rio Grande do Sul
+2020,24,520,Rio Grande do Sul
+2020,25,661,Rio Grande do Sul
+2020,26,651,Rio Grande do Sul
+2020,27,686,Rio Grande do Sul
+2020,28,798,Rio Grande do Sul
+2020,29,769,Rio Grande do Sul
+2020,30,741,Rio Grande do Sul
+2020,31,698,Rio Grande do Sul
+2020,32,659,Rio Grande do Sul
+2020,33,622,Rio Grande do Sul
+2020,34,598,Rio Grande do Sul
+2020,35,598,Rio Grande do Sul
+2020,36,527,Rio Grande do Sul
+2020,37,476,Rio Grande do Sul
+2020,38,388,Rio Grande do Sul
+2020,39,437,Rio Grande do Sul
+2020,40,402,Rio Grande do Sul
+2020,41,363,Rio Grande do Sul
+2020,42,NA,Rio Grande do Sul
+2020,43,NA,Rio Grande do Sul
 2020,1,5,Mato Grosso do Sul
 2020,2,7,Mato Grosso do Sul
-2020,3,9,Mato Grosso do Sul
+2020,3,10,Mato Grosso do Sul
 2020,4,12,Mato Grosso do Sul
 2020,5,9,Mato Grosso do Sul
 2020,6,11,Mato Grosso do Sul
@@ -13432,124 +13662,164 @@ ano,epiweek,casos,territory_name
 2020,9,15,Mato Grosso do Sul
 2020,10,16,Mato Grosso do Sul
 2020,11,65,Mato Grosso do Sul
-2020,12,165,Mato Grosso do Sul
-2020,13,133,Mato Grosso do Sul
-2020,14,124,Mato Grosso do Sul
-2020,15,94,Mato Grosso do Sul
-2020,16,75,Mato Grosso do Sul
-2020,17,80,Mato Grosso do Sul
+2020,12,166,Mato Grosso do Sul
+2020,13,136,Mato Grosso do Sul
+2020,14,126,Mato Grosso do Sul
+2020,15,98,Mato Grosso do Sul
+2020,16,77,Mato Grosso do Sul
+2020,17,82,Mato Grosso do Sul
 2020,18,67,Mato Grosso do Sul
-2020,19,64,Mato Grosso do Sul
-2020,20,72,Mato Grosso do Sul
-2020,21,104,Mato Grosso do Sul
+2020,19,67,Mato Grosso do Sul
+2020,20,73,Mato Grosso do Sul
+2020,21,106,Mato Grosso do Sul
 2020,22,73,Mato Grosso do Sul
-2020,23,142,Mato Grosso do Sul
-2020,24,163,Mato Grosso do Sul
-2020,25,201,Mato Grosso do Sul
-2020,26,174,Mato Grosso do Sul
-2020,27,283,Mato Grosso do Sul
-2020,28,280,Mato Grosso do Sul
-2020,29,254,Mato Grosso do Sul
-2020,30,237,Mato Grosso do Sul
-2020,31,238,Mato Grosso do Sul
-2020,32,NA,Mato Grosso do Sul
-2020,33,NA,Mato Grosso do Sul
+2020,23,146,Mato Grosso do Sul
+2020,24,168,Mato Grosso do Sul
+2020,25,204,Mato Grosso do Sul
+2020,26,172,Mato Grosso do Sul
+2020,27,285,Mato Grosso do Sul
+2020,28,297,Mato Grosso do Sul
+2020,29,270,Mato Grosso do Sul
+2020,30,271,Mato Grosso do Sul
+2020,31,310,Mato Grosso do Sul
+2020,32,221,Mato Grosso do Sul
+2020,33,246,Mato Grosso do Sul
+2020,34,221,Mato Grosso do Sul
+2020,35,186,Mato Grosso do Sul
+2020,36,185,Mato Grosso do Sul
+2020,37,198,Mato Grosso do Sul
+2020,38,187,Mato Grosso do Sul
+2020,39,164,Mato Grosso do Sul
+2020,40,156,Mato Grosso do Sul
+2020,41,141,Mato Grosso do Sul
+2020,42,NA,Mato Grosso do Sul
+2020,43,NA,Mato Grosso do Sul
 2020,1,1,Mato Grosso
 2020,2,1,Mato Grosso
-2020,3,2,Mato Grosso
+2020,3,3,Mato Grosso
 2020,4,0,Mato Grosso
-2020,5,2,Mato Grosso
-2020,6,2,Mato Grosso
+2020,5,3,Mato Grosso
+2020,6,3,Mato Grosso
 2020,7,3,Mato Grosso
 2020,8,7,Mato Grosso
-2020,9,6,Mato Grosso
+2020,9,5,Mato Grosso
 2020,10,7,Mato Grosso
 2020,11,26,Mato Grosso
-2020,12,48,Mato Grosso
-2020,13,83,Mato Grosso
-2020,14,76,Mato Grosso
+2020,12,49,Mato Grosso
+2020,13,84,Mato Grosso
+2020,14,75,Mato Grosso
 2020,15,64,Mato Grosso
-2020,16,64,Mato Grosso
-2020,17,56,Mato Grosso
-2020,18,68,Mato Grosso
-2020,19,115,Mato Grosso
-2020,20,138,Mato Grosso
-2020,21,175,Mato Grosso
-2020,22,246,Mato Grosso
-2020,23,256,Mato Grosso
-2020,24,275,Mato Grosso
-2020,25,363,Mato Grosso
-2020,26,261,Mato Grosso
-2020,27,247,Mato Grosso
-2020,28,222,Mato Grosso
-2020,29,171,Mato Grosso
-2020,30,134,Mato Grosso
-2020,31,93,Mato Grosso
-2020,32,NA,Mato Grosso
-2020,33,NA,Mato Grosso
-2020,1,3,Goiás
+2020,16,66,Mato Grosso
+2020,17,60,Mato Grosso
+2020,18,75,Mato Grosso
+2020,19,119,Mato Grosso
+2020,20,142,Mato Grosso
+2020,21,174,Mato Grosso
+2020,22,249,Mato Grosso
+2020,23,262,Mato Grosso
+2020,24,288,Mato Grosso
+2020,25,389,Mato Grosso
+2020,26,284,Mato Grosso
+2020,27,271,Mato Grosso
+2020,28,256,Mato Grosso
+2020,29,194,Mato Grosso
+2020,30,178,Mato Grosso
+2020,31,184,Mato Grosso
+2020,32,162,Mato Grosso
+2020,33,207,Mato Grosso
+2020,34,131,Mato Grosso
+2020,35,116,Mato Grosso
+2020,36,133,Mato Grosso
+2020,37,112,Mato Grosso
+2020,38,107,Mato Grosso
+2020,39,91,Mato Grosso
+2020,40,106,Mato Grosso
+2020,41,81,Mato Grosso
+2020,42,NA,Mato Grosso
+2020,43,NA,Mato Grosso
+2020,1,4,Goiás
 2020,2,12,Goiás
 2020,3,12,Goiás
 2020,4,5,Goiás
-2020,5,11,Goiás
+2020,5,10,Goiás
 2020,6,5,Goiás
 2020,7,11,Goiás
-2020,8,9,Goiás
-2020,9,15,Goiás
-2020,10,28,Goiás
-2020,11,77,Goiás
-2020,12,148,Goiás
+2020,8,10,Goiás
+2020,9,16,Goiás
+2020,10,29,Goiás
+2020,11,81,Goiás
+2020,12,151,Goiás
 2020,13,115,Goiás
-2020,14,129,Goiás
-2020,15,98,Goiás
-2020,16,100,Goiás
-2020,17,116,Goiás
-2020,18,150,Goiás
-2020,19,158,Goiás
-2020,20,171,Goiás
-2020,21,168,Goiás
-2020,22,223,Goiás
-2020,23,300,Goiás
-2020,24,338,Goiás
-2020,25,456,Goiás
-2020,26,482,Goiás
-2020,27,568,Goiás
-2020,28,568,Goiás
-2020,29,427,Goiás
-2020,30,455,Goiás
-2020,31,334,Goiás
-2020,32,NA,Goiás
-2020,33,NA,Goiás
-2020,1,28,Distrito Federal
-2020,2,19,Distrito Federal
-2020,3,17,Distrito Federal
-2020,4,17,Distrito Federal
+2020,14,132,Goiás
+2020,15,97,Goiás
+2020,16,102,Goiás
+2020,17,122,Goiás
+2020,18,159,Goiás
+2020,19,168,Goiás
+2020,20,175,Goiás
+2020,21,184,Goiás
+2020,22,232,Goiás
+2020,23,316,Goiás
+2020,24,355,Goiás
+2020,25,489,Goiás
+2020,26,512,Goiás
+2020,27,633,Goiás
+2020,28,657,Goiás
+2020,29,544,Goiás
+2020,30,611,Goiás
+2020,31,592,Goiás
+2020,32,594,Goiás
+2020,33,643,Goiás
+2020,34,665,Goiás
+2020,35,419,Goiás
+2020,36,498,Goiás
+2020,37,443,Goiás
+2020,38,388,Goiás
+2020,39,283,Goiás
+2020,40,285,Goiás
+2020,41,213,Goiás
+2020,42,NA,Goiás
+2020,43,NA,Goiás
+2020,1,41,Distrito Federal
+2020,2,20,Distrito Federal
+2020,3,21,Distrito Federal
+2020,4,18,Distrito Federal
 2020,5,16,Distrito Federal
-2020,6,16,Distrito Federal
-2020,7,24,Distrito Federal
-2020,8,36,Distrito Federal
-2020,9,45,Distrito Federal
-2020,10,60,Distrito Federal
-2020,11,93,Distrito Federal
-2020,12,157,Distrito Federal
-2020,13,134,Distrito Federal
-2020,14,122,Distrito Federal
-2020,15,109,Distrito Federal
-2020,16,115,Distrito Federal
-2020,17,142,Distrito Federal
-2020,18,154,Distrito Federal
-2020,19,197,Distrito Federal
-2020,20,200,Distrito Federal
-2020,21,237,Distrito Federal
-2020,22,251,Distrito Federal
-2020,23,375,Distrito Federal
-2020,24,382,Distrito Federal
-2020,25,494,Distrito Federal
-2020,26,467,Distrito Federal
-2020,27,573,Distrito Federal
-2020,28,558,Distrito Federal
-2020,29,484,Distrito Federal
-2020,30,534,Distrito Federal
-2020,31,358,Distrito Federal
-2020,32,NA,Distrito Federal
-2020,33,NA,Distrito Federal
+2020,6,22,Distrito Federal
+2020,7,27,Distrito Federal
+2020,8,40,Distrito Federal
+2020,9,50,Distrito Federal
+2020,10,68,Distrito Federal
+2020,11,101,Distrito Federal
+2020,12,174,Distrito Federal
+2020,13,147,Distrito Federal
+2020,14,135,Distrito Federal
+2020,15,119,Distrito Federal
+2020,16,132,Distrito Federal
+2020,17,168,Distrito Federal
+2020,18,177,Distrito Federal
+2020,19,225,Distrito Federal
+2020,20,229,Distrito Federal
+2020,21,258,Distrito Federal
+2020,22,272,Distrito Federal
+2020,23,405,Distrito Federal
+2020,24,401,Distrito Federal
+2020,25,530,Distrito Federal
+2020,26,507,Distrito Federal
+2020,27,625,Distrito Federal
+2020,28,617,Distrito Federal
+2020,29,548,Distrito Federal
+2020,30,597,Distrito Federal
+2020,31,489,Distrito Federal
+2020,32,435,Distrito Federal
+2020,33,437,Distrito Federal
+2020,34,333,Distrito Federal
+2020,35,269,Distrito Federal
+2020,36,223,Distrito Federal
+2020,37,195,Distrito Federal
+2020,38,179,Distrito Federal
+2020,39,176,Distrito Federal
+2020,40,171,Distrito Federal
+2020,41,158,Distrito Federal
+2020,42,NA,Distrito Federal
+2020,43,NA,Distrito Federal
