@@ -27,7 +27,7 @@ function(input, output, session) {
       geom_line() +
       scale_colour_viridis_d(direction = 1) +
       scale_x_continuous(breaks = pretty_breaks(10),  minor_breaks = NULL) +
-      labs(x = "Semana", y = "Número de Casos", colour = "Ano", 
+      labs(x = "Semana Epidemiológica", y = "Número de Casos", colour = "Ano", 
            title = paste0(selectedDataUF()$territory_name, ": Número de Casos de SRAG")) +
       theme(legend.position="top")
       p <- ggplotly(p, tooltip = c("Semana", "Casos"))
@@ -38,7 +38,7 @@ function(input, output, session) {
           geom_line() +
           scale_colour_viridis_d(direction = -1) +
           scale_x_continuous(breaks = pretty_breaks(10),  minor_breaks = NULL) +
-          labs(x = "Semana", y = "Número de Casos", colour = "Ano", 
+          labs(x = "Semana Epidemiológica", y = "Número de Casos", colour = "Ano", 
                title = paste0(selectedDataUF()$territory_name, ": Número de Casos de SRAG")) +
           theme(legend.position="top")
         p <- ggplotly(p, tooltip = c("Semana", "Casos"))
@@ -55,7 +55,7 @@ function(input, output, session) {
       geom_line() +
       scale_colour_viridis_d(direction = -1) +
       scale_x_continuous(breaks = pretty_breaks(10),  minor_breaks = NULL) +
-      labs(x = "Semana", y = "Casos por 100.000 Habitantes", colour = "Ano", 
+      labs(x = "Semana Epidemiológica", y = "Casos por 100.000 Habitantes", colour = "Ano", 
            title = paste0(selectedDataUF()$territory_name, ": Incidência de Casos de SRAG")) +
       theme(legend.position="top")
     p <- ggplotly(p, tooltip = c("Semana", "Incidência"))
@@ -119,7 +119,7 @@ function(input, output, session) {
         geom_line() +
         scale_colour_viridis_d(direction = 1) +
         scale_x_continuous(breaks = pretty_breaks(10),  minor_breaks = NULL) +
-        labs(x = "Semana", y = "Número de Casos", colour = "Ano", 
+        labs(x = "Semana Epidemiológica", y = "Número de Casos", colour = "Ano", 
              title = "Brasil: Número de Casos de SRAG") +
         theme(legend.position="top")
       p <- ggplotly(p, tooltip = c("Semana", "Casos"))
@@ -130,7 +130,7 @@ function(input, output, session) {
             geom_line() +
             scale_colour_viridis_d(direction = -1) +
             scale_x_continuous(breaks = pretty_breaks(10), minor_breaks = NULL) +
-            labs(x = "Semana", y = "Número de Casos", colour = "Ano", 
+            labs(x = "Semana Epidemiológica", y = "Número de Casos", colour = "Ano", 
                  title = "Brasil: Número de Casos de SRAG") +
             theme(legend.position = "top")
           p <- ggplotly(p, tooltip = c("Semana", "Casos"))
