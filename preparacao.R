@@ -24,3 +24,4 @@ casos_uf <- casos_uf %>%
 	mutate(casos = round(casos, digits = 0))
 
 write_csv(casos_uf, file = "casos_uf.csv")
+
