@@ -21,7 +21,8 @@ uf <- unique(casos_uf$territory_name)
 
 # ano mais recente
 
-max_ano  <- max(casos_uf$ano)
+# max_ano  <- max(casos_uf$ano)
+max_ano  <- 2020
 
 # semana mais recente
 
