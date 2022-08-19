@@ -18,15 +18,11 @@ pageWithSidebar(
                 
                 # aba com o grafico de valores absolutos
                 tabPanel("Casos por UF",
-                				 br(),
-                				 br(),
                          plotlyOutput("plot1", height = 500)
                 ),
                 
                 # aba com o grafico de incidencia
                 tabPanel("Incidência por UF",
-                				 br(),
-                				 br(),
                          plotlyOutput("plot4", height = 500)
                 ),
                 
