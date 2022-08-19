@@ -4,7 +4,8 @@ library(shiny)
 library(tidyverse)
 theme_set(
 	theme_bw() + 
-	theme(text = element_text(size = 10))
+	theme(text = element_text(size = 10),
+				plot.title = element_text(size = 8))
 )
 library(lubridate)
 library(janitor)

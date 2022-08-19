@@ -29,9 +29,10 @@ function(input, output, session) {
       scale_colour_viridis_d(direction = 1) +
       scale_x_continuous(breaks = pretty_breaks(10),  minor_breaks = NULL) +
       labs(x = "Semana Epidemiológica", y = "Número de Casos", colour = "Ano") +
-      theme(legend.position="top")
+      theme(legend.position = "top")
       p <- ggplotly(p, tooltip = c("Semana", "Casos")) %>%
-      	layout(title = list(text = paste0(title = paste0(selectedDataUF()$territory_name, ": Número de Casos de SRAG"))))
+      	layout(title = list(text = paste0(title = paste0(paste0(selectedDataUF()$territory_name, ": Incidência de Casos de SRAG")))),
+      				 margin = list(l = 75))
       p} else {
         p <- selectedDataUF() %>%
           mutate(Semana = epiweek, Casos = casos) %>%
@@ -40,9 +41,10 @@ function(input, output, session) {
           scale_colour_viridis_d(direction = -1) +
           scale_x_continuous(breaks = pretty_breaks(10),  minor_breaks = NULL) +
           labs(x = "Semana Epidemiológica", y = "Número de Casos", colour = "Ano") +
-          theme(legend.position="top")
+          theme(legend.position = "top")
         p <- ggplotly(p, tooltip = c("Semana", "Casos"))  %>%
-        	layout(title = list(text = paste0(title = paste0(paste0(selectedDataUF()$territory_name, ": Número de Casos de SRAG")))))
+        	layout(title = list(text = paste0(title = paste0(paste0(selectedDataUF()$territory_name, ": Número de Casos de SRAG")))),
+        				 margin = list(l = 75))
         p
       }
   })
@@ -57,7 +59,7 @@ function(input, output, session) {
       scale_colour_viridis_d(direction = -1) +
       scale_x_continuous(breaks = pretty_breaks(10),  minor_breaks = NULL) +
       labs(x = "Semana Epidemiológica", y = "Casos por 100.000 Habitantes", colour = "Ano") +
-      theme(legend.position="top")
+      theme(legend.position = "top")
     p <- ggplotly(p, tooltip = c("Semana", "Incidência")) %>%
     	layout(title = list(text = paste0(title = paste0(paste0(selectedDataUF()$territory_name, ": Incidência de Casos de SRAG")))),
     				 margin = list(l = 75))
@@ -124,7 +126,7 @@ function(input, output, session) {
         scale_x_continuous(breaks = pretty_breaks(10),  minor_breaks = NULL) +
         labs(x = "Semana Epidemiológica", y = "Número de Casos", colour = "Ano", 
              title = "Brasil: Número de Casos de SRAG") +
-        theme(legend.position="top")
+        theme(legend.position = "top")
       p <- ggplotly(p, tooltip = c("Semana", "Casos"))
       p} else {
           p <- selectedDataBrasil() %>%
