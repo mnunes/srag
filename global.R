@@ -2,7 +2,10 @@
 
 library(shiny)
 library(tidyverse)
-theme_set(theme_bw() + theme(text = element_text(size = 12)))
+theme_set(
+	theme_bw() + 
+	theme(text = element_text(size = 12), plot.margin = unit(c(2,1,1,1), "cm"))
+)
 library(lubridate)
 library(janitor)
 library(plotly)
@@ -11,9 +14,9 @@ library(reshape2)
 
 # leitura dos dados
 
-casos_uf <- read_csv(file="casos_uf.csv")
+casos_uf <- read_csv(file = "casos_uf.csv")
 
-populacao <- read_csv(file="populacao.csv")
+populacao <- read_csv(file = "populacao.csv")
 
 # nomes das UFs
 
@@ -27,7 +30,7 @@ max_ano  <- 2020
 # semana mais recente
 
 max_week <- casos_uf %>%
-	filter(ano == max_ano) %>%
+	filter(ano ==  max_ano) %>%
 	summarise(max(epiweek)) %>%
 	as.numeric()
 
@@ -37,7 +40,10 @@ casos_uf <- casos_uf %>%
 # adicionar epiweek a populacao
 
 populacao <- populacao[rep(seq_len(nrow(populacao)), each = max_week), ]
-populacao$epiweek <- rep(rep(1:max_week, length(uf)),length(2011:max_ano))
+populacao <- 
+	populacao %>%
+	group_by(territory_name, ano) %>%
+	mutate(epiweek = 1:n())
 
 # calculo da incidencia
 
@@ -57,9 +63,10 @@ srag_filtrado <- casos_uf %>%
 	#filter(epiweek <= 50)
 
 #max_week <- srag_filtrado %>%
-#	filter(ano == max_ano) %>%
+#	filter(ano ==  max_ano) %>%
 #	na.omit() %>%
 #	group_by(territory_name) %>%
 #	summarise(max_week = max(epiweek))
 
 # srag_filtrado <- left_join(srag_filtrado, max_week)
+
