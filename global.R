@@ -4,7 +4,7 @@ library(shiny)
 library(tidyverse)
 theme_set(
 	theme_bw() + 
-	theme(text = element_text(size = 12), plot.margin = unit(c(3,1,1,1), "cm"))
+	theme(text = element_text(size = 10))
 )
 library(lubridate)
 library(janitor)

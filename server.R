@@ -59,7 +59,8 @@ function(input, output, session) {
       labs(x = "Semana Epidemiológica", y = "Casos por 100.000 Habitantes", colour = "Ano") +
       theme(legend.position="top")
     p <- ggplotly(p, tooltip = c("Semana", "Incidência")) %>%
-    	layout(title = list(text = paste0(title = paste0(paste0(selectedDataUF()$territory_name, ": Incidência de Casos de SRAG")))))
+    	layout(title = list(text = paste0(title = paste0(paste0(selectedDataUF()$territory_name, ": Incidência de Casos de SRAG")))),
+    				 margin = list(l = 75))
     p
   })
   
