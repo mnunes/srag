@@ -7,6 +7,7 @@ function(input, output, session) {
       filter(territory_name == input$uf) %>%
       filter(ano >= input$slider[1]) %>%
       filter(ano <= input$slider[2]) %>%
+  		as.data.frame() %>%
       mutate(ano = factor(ano))
   })
   
@@ -23,14 +24,14 @@ function(input, output, session) {
         melt(id.var = "epiweek") %>%
         mutate(variable = ifelse(variable == "media", paste("Média\n", input$slider[1], "-", input$slider[2]-1, sep=""), input$slider[2])) %>%
         mutate(Semana = epiweek, Casos = round(value, digits = 0), Grupo = variable) %>%
-        ggplot(., aes(x = Semana, y = Casos, group = Grupo, colour = Grupo)) +
+      ggplot(., aes(x = Semana, y = Casos, group = Grupo, colour = Grupo)) +
       geom_line() +
       scale_colour_viridis_d(direction = 1) +
       scale_x_continuous(breaks = pretty_breaks(10),  minor_breaks = NULL) +
-      labs(x = "Semana Epidemiológica", y = "Número de Casos", colour = "Ano", 
-           title = paste0(selectedDataUF()$territory_name, ": Número de Casos de SRAG")) +
+      labs(x = "Semana Epidemiológica", y = "Número de Casos", colour = "Ano") +
       theme(legend.position="top")
-      p <- ggplotly(p, tooltip = c("Semana", "Casos"))
+      p <- ggplotly(p, tooltip = c("Semana", "Casos")) %>%
+      	layout(title = list(text = paste0(title = paste0(selectedDataUF()$territory_name, ": Número de Casos de SRAG"))))
       p} else {
         p <- selectedDataUF() %>%
           mutate(Semana = epiweek, Casos = casos) %>%
@@ -38,10 +39,10 @@ function(input, output, session) {
           geom_line() +
           scale_colour_viridis_d(direction = -1) +
           scale_x_continuous(breaks = pretty_breaks(10),  minor_breaks = NULL) +
-          labs(x = "Semana Epidemiológica", y = "Número de Casos", colour = "Ano", 
-               title = paste0(selectedDataUF()$territory_name, ": Número de Casos de SRAG")) +
+          labs(x = "Semana Epidemiológica", y = "Número de Casos", colour = "Ano") +
           theme(legend.position="top")
-        p <- ggplotly(p, tooltip = c("Semana", "Casos"))
+        p <- ggplotly(p, tooltip = c("Semana", "Casos"))  %>%
+        	layout(title = list(text = paste0(title = paste0(paste0(selectedDataUF()$territory_name, ": Número de Casos de SRAG")))))
         p
       }
   })
@@ -55,10 +56,10 @@ function(input, output, session) {
       geom_line() +
       scale_colour_viridis_d(direction = -1) +
       scale_x_continuous(breaks = pretty_breaks(10),  minor_breaks = NULL) +
-      labs(x = "Semana Epidemiológica", y = "Casos por 100.000 Habitantes", colour = "Ano", 
-           title = paste0(selectedDataUF()$territory_name, ": Incidência de Casos de SRAG")) +
+      labs(x = "Semana Epidemiológica", y = "Casos por 100.000 Habitantes", colour = "Ano") +
       theme(legend.position="top")
-    p <- ggplotly(p, tooltip = c("Semana", "Incidência"))
+    p <- ggplotly(p, tooltip = c("Semana", "Incidência")) %>%
+    	layout(title = list(text = paste0(title = paste0(paste0(selectedDataUF()$territory_name, ": Incidência de Casos de SRAG")))))
     p
   })
   
@@ -68,6 +69,7 @@ function(input, output, session) {
     srag_filtrado %>%
       filter(ano >= input$slider[1]) %>%
       filter(ano <= input$slider[2]) %>%
+  		as.data.frame() %>%
       mutate(ano = factor(ano))
   })
   
@@ -114,7 +116,7 @@ function(input, output, session) {
         select(epiweek, media, casos) %>%
         melt(id.var = "epiweek") %>%
         mutate(variable = ifelse(variable == "media", paste("Média\n", input$slider[1], "-", input$slider[2]-1, sep=""), input$slider[2])) %>%
-        mutate(Semana = epiweek, Casos = value) %>%
+      	mutate(Semana = epiweek, Casos = round(value, digits = 0)) %>%
         ggplot(., aes(x = Semana, y = Casos, group = variable, colour = variable)) +
         geom_line() +
         scale_colour_viridis_d(direction = 1) +
